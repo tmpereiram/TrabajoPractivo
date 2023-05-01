@@ -1,0 +1,1939 @@
+﻿AÑO;Estado;Tipo de crimen;SUM de Ocurrencias
+2015;Acre;Homicidio doloso;189
+2015;Acre;Hurto en el vehículo;0
+2015;Acre;Lesiones corporales seguidas de muerte;3
+2015;Acre;Robo a entidad financiera;0
+2015;Acre;Robo de mercancía;0
+2015;Acre;Robo de vehiculo;0
+2015;Acre;Robo seguido de muerte;10
+2015;Acre;Tentativa de homicidio;16
+2015;Acre;Violación;42
+2015;Alagoas;Homicidio doloso;1633
+2015;Alagoas;Hurto en el vehículo;696
+2015;Alagoas;Lesiones corporales seguidas de muerte;9
+2015;Alagoas;Robo a entidad financiera;21
+2015;Alagoas;Robo de mercancía;95
+2015;Alagoas;Robo de vehiculo;3158
+2015;Alagoas;Robo seguido de muerte;56
+2015;Alagoas;Tentativa de homicidio;704
+2015;Alagoas;Violación;567
+2015;Amapá;Homicidio doloso;248
+2015;Amapá;Hurto en el vehículo;877
+2015;Amapá;Lesiones corporales seguidas de muerte;2
+2015;Amapá;Robo a entidad financiera;2
+2015;Amapá;Robo de vehiculo;310
+2015;Amapá;Robo seguido de muerte;17
+2015;Amapá;Tentativa de homicidio;315
+2015;Amapá;Violación;354
+2015;Amazonas;Homicidio doloso;1313
+2015;Amazonas;Hurto en el vehículo;1867
+2015;Amazonas;Lesiones corporales seguidas de muerte;8
+2015;Amazonas;Robo a entidad financiera;52
+2015;Amazonas;Robo de mercancía;0
+2015;Amazonas;Robo de vehiculo;2781
+2015;Amazonas;Robo seguido de muerte;69
+2015;Amazonas;Tentativa de homicidio;394
+2015;Amazonas;Violación;756
+2015;Bahia;Homicidio doloso;5422
+2015;Bahia;Hurto en el vehículo;5539
+2015;Bahia;Lesiones corporales seguidas de muerte;125
+2015;Bahia;Robo a entidad financiera;60
+2015;Bahia;Robo de mercancía;436
+2015;Bahia;Robo de vehiculo;14451
+2015;Bahia;Robo seguido de muerte;204
+2015;Bahia;Tentativa de homicidio;2844
+2015;Bahia;Violación;2450
+2015;Ceará;Homicidio doloso;3787
+2015;Ceará;Hurto en el vehículo;4839
+2015;Ceará;Lesiones corporales seguidas de muerte;30
+2015;Ceará;Robo a entidad financiera;60
+2015;Ceará;Robo de mercancía;212
+2015;Ceará;Robo de vehiculo;9411
+2015;Ceará;Robo seguido de muerte;64
+2015;Ceará;Tentativa de homicidio;1629
+2015;Ceará;Violación;1454
+2015;Distrito Federal Brasilia;Homicidio doloso;614
+2015;Distrito Federal Brasilia;Hurto en el vehículo;6500
+2015;Distrito Federal Brasilia;Lesiones corporales seguidas de muerte;6
+2015;Distrito Federal Brasilia;Robo a entidad financiera;8
+2015;Distrito Federal Brasilia;Robo de mercancía;31
+2015;Distrito Federal Brasilia;Robo de vehiculo;4807
+2015;Distrito Federal Brasilia;Robo seguido de muerte;45
+2015;Distrito Federal Brasilia;Tentativa de homicidio;676
+2015;Distrito Federal Brasilia;Violación;625
+2015;Espírito Santo;Homicidio doloso;1392
+2015;Espírito Santo;Hurto en el vehículo;3075
+2015;Espírito Santo;Lesiones corporales seguidas de muerte;16
+2015;Espírito Santo;Robo a entidad financiera;12
+2015;Espírito Santo;Robo de mercancía;28
+2015;Espírito Santo;Robo de vehiculo;2960
+2015;Espírito Santo;Robo seguido de muerte;37
+2015;Espírito Santo;Tentativa de homicidio;2633
+2015;Espírito Santo;Violación;404
+2015;Goiás;Homicidio doloso;2729
+2015;Goiás;Hurto en el vehículo;12008
+2015;Goiás;Lesiones corporales seguidas de muerte;23
+2015;Goiás;Robo a entidad financiera;87
+2015;Goiás;Robo de mercancía;452
+2015;Goiás;Robo de vehiculo;9554
+2015;Goiás;Robo seguido de muerte;89
+2015;Goiás;Tentativa de homicidio;2507
+2015;Goiás;Violación;535
+2015;Maranhao;Homicidio doloso;2006
+2015;Maranhao;Hurto en el vehículo;2240
+2015;Maranhao;Lesiones corporales seguidas de muerte;67
+2015;Maranhao;Robo a entidad financiera;152
+2015;Maranhao;Robo de mercancía;48
+2015;Maranhao;Robo de vehiculo;4065
+2015;Maranhao;Robo seguido de muerte;117
+2015;Maranhao;Tentativa de homicidio;1197
+2015;Maranhao;Violación;952
+2015;Mato Grosso;Homicidio doloso;1121
+2015;Mato Grosso;Hurto en el vehículo;3614
+2015;Mato Grosso;Lesiones corporales seguidas de muerte;27
+2015;Mato Grosso;Robo a entidad financiera;33
+2015;Mato Grosso;Robo de mercancía;17
+2015;Mato Grosso;Robo de vehiculo;3541
+2015;Mato Grosso;Robo seguido de muerte;52
+2015;Mato Grosso;Tentativa de homicidio;1516
+2015;Mato Grosso;Violación;1484
+2015;Mato Grosso do Sul;Homicidio doloso;561
+2015;Mato Grosso do Sul;Hurto en el vehículo;3699
+2015;Mato Grosso do Sul;Lesiones corporales seguidas de muerte;6
+2015;Mato Grosso do Sul;Robo a entidad financiera;13
+2015;Mato Grosso do Sul;Robo de mercancía;2
+2015;Mato Grosso do Sul;Robo de vehiculo;989
+2015;Mato Grosso do Sul;Robo seguido de muerte;38
+2015;Mato Grosso do Sul;Tentativa de homicidio;962
+2015;Mato Grosso do Sul;Violación;1569
+2015;Minas Gerais;Homicidio doloso;4024
+2015;Minas Gerais;Hurto en el vehículo;27561
+2015;Minas Gerais;Lesiones corporales seguidas de muerte;62
+2015;Minas Gerais;Robo a entidad financiera;112
+2015;Minas Gerais;Robo de mercancía;662
+2015;Minas Gerais;Robo de vehiculo;11701
+2015;Minas Gerais;Robo seguido de muerte;119
+2015;Minas Gerais;Tentativa de homicidio;5170
+2015;Minas Gerais;Violación;1460
+2015;Pará;Homicidio doloso;3238
+2015;Pará;Hurto en el vehículo;2826
+2015;Pará;Lesiones corporales seguidas de muerte;23
+2015;Pará;Robo a entidad financiera;37
+2015;Pará;Robo de mercancía;111
+2015;Pará;Robo de vehiculo;5745
+2015;Pará;Robo seguido de muerte;187
+2015;Pará;Tentativa de homicidio;1540
+2015;Pará;Violación;2578
+2015;Paraíba;Homicidio doloso;1378
+2015;Paraíba;Hurto en el vehículo;1841
+2015;Paraíba;Lesiones corporales seguidas de muerte;7
+2015;Paraíba;Robo a entidad financiera;35
+2015;Paraíba;Robo de mercancía;3
+2015;Paraíba;Robo de vehiculo;1313
+2015;Paraíba;Robo seguido de muerte;46
+2015;Paraíba;Tentativa de homicidio;300
+2015;Paraíba;Violación;290
+2015;Paraná;Homicidio doloso;1253
+2015;Paraná;Hurto en el vehículo;17072
+2015;Paraná;Lesiones corporales seguidas de muerte;47
+2015;Paraná;Robo de mercancía;707
+2015;Paraná;Robo de vehiculo;9241
+2015;Paraná;Robo seguido de muerte;55
+2015;Paraná;Tentativa de homicidio;798
+2015;Paraná;Violación;4354
+2015;Pernambuco;Homicidio doloso;3620
+2015;Pernambuco;Hurto en el vehículo;3769
+2015;Pernambuco;Lesiones corporales seguidas de muerte;23
+2015;Pernambuco;Robo a entidad financiera;80
+2015;Pernambuco;Robo de mercancía;299
+2015;Pernambuco;Robo de vehiculo;10154
+2015;Pernambuco;Robo seguido de muerte;112
+2015;Pernambuco;Tentativa de homicidio;3080
+2015;Pernambuco;Violación;2174
+2015;Piauí;Homicidio doloso;610
+2015;Piauí;Hurto en el vehículo;1641
+2015;Piauí;Lesiones corporales seguidas de muerte;11
+2015;Piauí;Robo a entidad financiera;6
+2015;Piauí;Robo de mercancía;9
+2015;Piauí;Robo de vehiculo;2876
+2015;Piauí;Robo seguido de muerte;47
+2015;Piauí;Tentativa de homicidio;625
+2015;Piauí;Violación;539
+2015;Rio de Janeiro;Homicidio doloso;3903
+2015;Rio de Janeiro;Hurto en el vehículo;16944
+2015;Rio de Janeiro;Lesiones corporales seguidas de muerte;32
+2015;Rio de Janeiro;Robo a entidad financiera;60
+2015;Rio de Janeiro;Robo de mercancía;7225
+2015;Rio de Janeiro;Robo de vehiculo;31035
+2015;Rio de Janeiro;Robo seguido de muerte;131
+2015;Rio de Janeiro;Tentativa de homicidio;3976
+2015;Rio de Janeiro;Violación;4453
+2015;Rio Grande do Norte;Homicidio doloso;1398
+2015;Rio Grande do Norte;Hurto en el vehículo;972
+2015;Rio Grande do Norte;Lesiones corporales seguidas de muerte;136
+2015;Rio Grande do Norte;Robo a entidad financiera;55
+2015;Rio Grande do Norte;Robo de mercancía;15
+2015;Rio Grande do Norte;Robo de vehiculo;4487
+2015;Rio Grande do Norte;Robo seguido de muerte;58
+2015;Rio Grande do Norte;Tentativa de homicidio;318
+2015;Rio Grande do Norte;Violación;282
+2015;Rio Grande do Sul;Homicidio doloso;2482
+2015;Rio Grande do Sul;Hurto en el vehículo;20419
+2015;Rio Grande do Sul;Lesiones corporales seguidas de muerte;31
+2015;Rio Grande do Sul;Robo a entidad financiera;76
+2015;Rio Grande do Sul;Robo de mercancía;261
+2015;Rio Grande do Sul;Robo de vehiculo;18138
+2015;Rio Grande do Sul;Robo seguido de muerte;145
+2015;Rio Grande do Sul;Tentativa de homicidio;4071
+2015;Rio Grande do Sul;Violación;4388
+2015;Rondonia;Homicidio doloso;497
+2015;Rondonia;Hurto en el vehículo;3304
+2015;Rondonia;Lesiones corporales seguidas de muerte;3
+2015;Rondonia;Robo a entidad financiera;17
+2015;Rondonia;Robo de mercancía;3
+2015;Rondonia;Robo de vehiculo;1795
+2015;Rondonia;Robo seguido de muerte;15
+2015;Rondonia;Tentativa de homicidio;908
+2015;Rondonia;Violación;692
+2015;Roraima;Homicidio doloso;105
+2015;Roraima;Hurto en el vehículo;641
+2015;Roraima;Lesiones corporales seguidas de muerte;5
+2015;Roraima;Robo a entidad financiera;0
+2015;Roraima;Robo de mercancía;0
+2015;Roraima;Robo de vehiculo;343
+2015;Roraima;Robo seguido de muerte;10
+2015;Roraima;Tentativa de homicidio;135
+2015;Roraima;Violación;218
+2015;San Pablo;Homicidio doloso;3758
+2015;San Pablo;Hurto en el vehículo;110690
+2015;San Pablo;Robo a entidad financiera;159
+2015;San Pablo;Robo de mercancía;8490
+2015;San Pablo;Robo de vehiculo;78659
+2015;San Pablo;Robo seguido de muerte;345
+2015;San Pablo;Tentativa de homicidio;4466
+2015;San Pablo;Violación;9265
+2015;Santa Catarina;Homicidio doloso;803
+2015;Santa Catarina;Hurto en el vehículo;14068
+2015;Santa Catarina;Lesiones corporales seguidas de muerte;14
+2015;Santa Catarina;Robo a entidad financiera;78
+2015;Santa Catarina;Robo de mercancía;161
+2015;Santa Catarina;Robo de vehiculo;3462
+2015;Santa Catarina;Robo seguido de muerte;70
+2015;Santa Catarina;Tentativa de homicidio;1448
+2015;Santa Catarina;Violación;878
+2015;Sergipe;Homicidio doloso;1196
+2015;Sergipe;Hurto en el vehículo;653
+2015;Sergipe;Lesiones corporales seguidas de muerte;0
+2015;Sergipe;Robo a entidad financiera;30
+2015;Sergipe;Robo de mercancía;51
+2015;Sergipe;Robo de vehiculo;1728
+2015;Sergipe;Robo seguido de muerte;47
+2015;Sergipe;Tentativa de homicidio;453
+2015;Sergipe;Violación;448
+2015;Tocantins;Homicidio doloso;348
+2015;Tocantins;Hurto en el vehículo;1595
+2015;Tocantins;Lesiones corporales seguidas de muerte;7
+2015;Tocantins;Robo a entidad financiera;26
+2015;Tocantins;Robo de mercancía;7
+2015;Tocantins;Robo de vehiculo;564
+2015;Tocantins;Robo seguido de muerte;8
+2015;Tocantins;Tentativa de homicidio;356
+2015;Tocantins;Violación;380
+2016;Acre;Homicidio doloso;425
+2016;Acre;Hurto en el vehículo;0
+2016;Acre;Lesiones corporales seguidas de muerte;1
+2016;Acre;Robo a entidad financiera;0
+2016;Acre;Robo de mercancía;0
+2016;Acre;Robo de vehiculo;0
+2016;Acre;Robo seguido de muerte;15
+2016;Acre;Tentativa de homicidio;10
+2016;Acre;Violación;36
+2016;Alagoas;Homicidio doloso;1659
+2016;Alagoas;Hurto en el vehículo;819
+2016;Alagoas;Lesiones corporales seguidas de muerte;9
+2016;Alagoas;Robo a entidad financiera;30
+2016;Alagoas;Robo de mercancía;106
+2016;Alagoas;Robo de vehiculo;3895
+2016;Alagoas;Robo seguido de muerte;61
+2016;Alagoas;Tentativa de homicidio;679
+2016;Alagoas;Violación;544
+2016;Amapá;Homicidio doloso;270
+2016;Amapá;Hurto en el vehículo;805
+2016;Amapá;Lesiones corporales seguidas de muerte;4
+2016;Amapá;Robo a entidad financiera;12
+2016;Amapá;Robo de vehiculo;207
+2016;Amapá;Robo seguido de muerte;18
+2016;Amapá;Tentativa de homicidio;296
+2016;Amapá;Violación;430
+2016;Amazonas;Homicidio doloso;1023
+2016;Amazonas;Hurto en el vehículo;2694
+2016;Amazonas;Lesiones corporales seguidas de muerte;35
+2016;Amazonas;Robo a entidad financiera;16
+2016;Amazonas;Robo de mercancía;5
+2016;Amazonas;Robo de vehiculo;3586
+2016;Amazonas;Robo seguido de muerte;92
+2016;Amazonas;Tentativa de homicidio;378
+2016;Amazonas;Violación;958
+2016;Bahia;Homicidio doloso;6124
+2016;Bahia;Hurto en el vehículo;6010
+2016;Bahia;Lesiones corporales seguidas de muerte;115
+2016;Bahia;Robo a entidad financiera;23
+2016;Bahia;Robo de mercancía;397
+2016;Bahia;Robo de vehiculo;14900
+2016;Bahia;Robo seguido de muerte;210
+2016;Bahia;Tentativa de homicidio;2760
+2016;Bahia;Violación;2692
+2016;Ceará;Homicidio doloso;3163
+2016;Ceará;Hurto en el vehículo;4927
+2016;Ceará;Lesiones corporales seguidas de muerte;34
+2016;Ceará;Robo a entidad financiera;62
+2016;Ceará;Robo de mercancía;276
+2016;Ceará;Robo de vehiculo;10084
+2016;Ceará;Robo seguido de muerte;88
+2016;Ceará;Tentativa de homicidio;1357
+2016;Ceará;Violación;1538
+2016;Distrito Federal Brasilia;Homicidio doloso;572
+2016;Distrito Federal Brasilia;Hurto en el vehículo;6924
+2016;Distrito Federal Brasilia;Lesiones corporales seguidas de muerte;6
+2016;Distrito Federal Brasilia;Robo a entidad financiera;5
+2016;Distrito Federal Brasilia;Robo de mercancía;67
+2016;Distrito Federal Brasilia;Robo de vehiculo;5624
+2016;Distrito Federal Brasilia;Robo seguido de muerte;42
+2016;Distrito Federal Brasilia;Tentativa de homicidio;915
+2016;Distrito Federal Brasilia;Violación;636
+2016;Espírito Santo;Homicidio doloso;1181
+2016;Espírito Santo;Hurto en el vehículo;3102
+2016;Espírito Santo;Lesiones corporales seguidas de muerte;16
+2016;Espírito Santo;Robo a entidad financiera;17
+2016;Espírito Santo;Robo de mercancía;26
+2016;Espírito Santo;Robo de vehiculo;3376
+2016;Espírito Santo;Robo seguido de muerte;56
+2016;Espírito Santo;Tentativa de homicidio;2679
+2016;Espírito Santo;Violación;390
+2016;Goiás;Homicidio doloso;2567
+2016;Goiás;Hurto en el vehículo;12165
+2016;Goiás;Lesiones corporales seguidas de muerte;43
+2016;Goiás;Robo a entidad financiera;108
+2016;Goiás;Robo de mercancía;600
+2016;Goiás;Robo de vehiculo;14851
+2016;Goiás;Robo seguido de muerte;93
+2016;Goiás;Tentativa de homicidio;2604
+2016;Goiás;Violación;627
+2016;Maranhao;Homicidio doloso;2070
+2016;Maranhao;Hurto en el vehículo;3249
+2016;Maranhao;Lesiones corporales seguidas de muerte;31
+2016;Maranhao;Robo a entidad financiera;79
+2016;Maranhao;Robo de mercancía;67
+2016;Maranhao;Robo de vehiculo;4811
+2016;Maranhao;Robo seguido de muerte;113
+2016;Maranhao;Tentativa de homicidio;1244
+2016;Maranhao;Violación;995
+2016;Mato Grosso;Homicidio doloso;1086
+2016;Mato Grosso;Hurto en el vehículo;3403
+2016;Mato Grosso;Lesiones corporales seguidas de muerte;22
+2016;Mato Grosso;Robo a entidad financiera;25
+2016;Mato Grosso;Robo de mercancía;13
+2016;Mato Grosso;Robo de vehiculo;3169
+2016;Mato Grosso;Robo seguido de muerte;64
+2016;Mato Grosso;Tentativa de homicidio;1433
+2016;Mato Grosso;Violación;1615
+2016;Mato Grosso do Sul;Homicidio doloso;562
+2016;Mato Grosso do Sul;Hurto en el vehículo;3894
+2016;Mato Grosso do Sul;Lesiones corporales seguidas de muerte;7
+2016;Mato Grosso do Sul;Robo a entidad financiera;22
+2016;Mato Grosso do Sul;Robo de mercancía;1
+2016;Mato Grosso do Sul;Robo de vehiculo;884
+2016;Mato Grosso do Sul;Robo seguido de muerte;40
+2016;Mato Grosso do Sul;Tentativa de homicidio;810
+2016;Mato Grosso do Sul;Violación;1685
+2016;Minas Gerais;Homicidio doloso;4034
+2016;Minas Gerais;Hurto en el vehículo;28836
+2016;Minas Gerais;Lesiones corporales seguidas de muerte;60
+2016;Minas Gerais;Robo a entidad financiera;82
+2016;Minas Gerais;Robo de mercancía;588
+2016;Minas Gerais;Robo de vehiculo;14198
+2016;Minas Gerais;Robo seguido de muerte;113
+2016;Minas Gerais;Tentativa de homicidio;5060
+2016;Minas Gerais;Violación;1527
+2016;Pará;Homicidio doloso;3577
+2016;Pará;Hurto en el vehículo;3888
+2016;Pará;Lesiones corporales seguidas de muerte;51
+2016;Pará;Robo a entidad financiera;31
+2016;Pará;Robo de mercancía;137
+2016;Pará;Robo de vehiculo;6952
+2016;Pará;Robo seguido de muerte;192
+2016;Pará;Tentativa de homicidio;1463
+2016;Pará;Violación;2817
+2016;Paraíba;Homicidio doloso;1248
+2016;Paraíba;Hurto en el vehículo;316
+2016;Paraíba;Lesiones corporales seguidas de muerte;2
+2016;Paraíba;Robo a entidad financiera;34
+2016;Paraíba;Robo de mercancía;0
+2016;Paraíba;Robo de vehiculo;300
+2016;Paraíba;Robo seguido de muerte;40
+2016;Paraíba;Tentativa de homicidio;281
+2016;Paraíba;Violación;445
+2016;Paraná;Homicidio doloso;1455
+2016;Paraná;Hurto en el vehículo;20366
+2016;Paraná;Lesiones corporales seguidas de muerte;49
+2016;Paraná;Robo de mercancía;899
+2016;Paraná;Robo de vehiculo;12568
+2016;Paraná;Robo seguido de muerte;62
+2016;Paraná;Tentativa de homicidio;739
+2016;Paraná;Violación;4663
+2016;Pernambuco;Homicidio doloso;4168
+2016;Pernambuco;Hurto en el vehículo;4832
+2016;Pernambuco;Lesiones corporales seguidas de muerte;34
+2016;Pernambuco;Robo a entidad financiera;87
+2016;Pernambuco;Robo de mercancía;488
+2016;Pernambuco;Robo de vehiculo;15217
+2016;Pernambuco;Robo seguido de muerte;112
+2016;Pernambuco;Tentativa de homicidio;2982
+2016;Pernambuco;Violación;2269
+2016;Piauí;Homicidio doloso;641
+2016;Piauí;Hurto en el vehículo;2389
+2016;Piauí;Lesiones corporales seguidas de muerte;14
+2016;Piauí;Robo a entidad financiera;12
+2016;Piauí;Robo de mercancía;15
+2016;Piauí;Robo de vehiculo;3322
+2016;Piauí;Robo seguido de muerte;49
+2016;Piauí;Tentativa de homicidio;736
+2016;Piauí;Violación;653
+2016;Rio de Janeiro;Homicidio doloso;4641
+2016;Rio de Janeiro;Hurto en el vehículo;16759
+2016;Rio de Janeiro;Lesiones corporales seguidas de muerte;55
+2016;Rio de Janeiro;Robo a entidad financiera;75
+2016;Rio de Janeiro;Robo de mercancía;9874
+2016;Rio de Janeiro;Robo de vehiculo;41696
+2016;Rio de Janeiro;Robo seguido de muerte;225
+2016;Rio de Janeiro;Tentativa de homicidio;3957
+2016;Rio de Janeiro;Violación;4308
+2016;Rio Grande do Norte;Homicidio doloso;1745
+2016;Rio Grande do Norte;Hurto en el vehículo;1703
+2016;Rio Grande do Norte;Lesiones corporales seguidas de muerte;119
+2016;Rio Grande do Norte;Robo a entidad financiera;40
+2016;Rio Grande do Norte;Robo de mercancía;17
+2016;Rio Grande do Norte;Robo de vehiculo;7024
+2016;Rio Grande do Norte;Robo seguido de muerte;48
+2016;Rio Grande do Norte;Tentativa de homicidio;138
+2016;Rio Grande do Norte;Violación;206
+2016;Rio Grande do Sul;Homicidio doloso;2674
+2016;Rio Grande do Sul;Hurto en el vehículo;19541
+2016;Rio Grande do Sul;Lesiones corporales seguidas de muerte;27
+2016;Rio Grande do Sul;Robo a entidad financiera;76
+2016;Rio Grande do Sul;Robo de mercancía;331
+2016;Rio Grande do Sul;Robo de vehiculo;17614
+2016;Rio Grande do Sul;Robo seguido de muerte;169
+2016;Rio Grande do Sul;Tentativa de homicidio;4035
+2016;Rio Grande do Sul;Violación;4615
+2016;Rondonia;Homicidio doloso;535
+2016;Rondonia;Hurto en el vehículo;3557
+2016;Rondonia;Lesiones corporales seguidas de muerte;2
+2016;Rondonia;Robo a entidad financiera;11
+2016;Rondonia;Robo de mercancía;14
+2016;Rondonia;Robo de vehiculo;1905
+2016;Rondonia;Robo seguido de muerte;35
+2016;Rondonia;Tentativa de homicidio;867
+2016;Rondonia;Violación;790
+2016;Roraima;Homicidio doloso;120
+2016;Roraima;Hurto en el vehículo;995
+2016;Roraima;Lesiones corporales seguidas de muerte;9
+2016;Roraima;Robo a entidad financiera;4
+2016;Roraima;Robo de mercancía;0
+2016;Roraima;Robo de vehiculo;521
+2016;Roraima;Robo seguido de muerte;7
+2016;Roraima;Tentativa de homicidio;150
+2016;Roraima;Violación;258
+2016;San Pablo;Homicidio doloso;3521
+2016;San Pablo;Hurto en el vehículo;110932
+2016;San Pablo;Lesiones corporales seguidas de muerte;12
+2016;San Pablo;Robo a entidad financiera;137
+2016;San Pablo;Robo de mercancía;9943
+2016;San Pablo;Robo de vehiculo;77949
+2016;San Pablo;Robo seguido de muerte;352
+2016;San Pablo;Tentativa de homicidio;4117
+2016;San Pablo;Violación;10055
+2016;Santa Catarina;Homicidio doloso;861
+2016;Santa Catarina;Hurto en el vehículo;14291
+2016;Santa Catarina;Lesiones corporales seguidas de muerte;19
+2016;Santa Catarina;Robo a entidad financiera;61
+2016;Santa Catarina;Robo de mercancía;258
+2016;Santa Catarina;Robo de vehiculo;3470
+2016;Santa Catarina;Robo seguido de muerte;57
+2016;Santa Catarina;Tentativa de homicidio;1462
+2016;Santa Catarina;Violación;1033
+2016;Sergipe;Homicidio doloso;1306
+2016;Sergipe;Hurto en el vehículo;1027
+2016;Sergipe;Lesiones corporales seguidas de muerte;1
+2016;Sergipe;Robo a entidad financiera;5
+2016;Sergipe;Robo de mercancía;41
+2016;Sergipe;Robo de vehiculo;2677
+2016;Sergipe;Robo seguido de muerte;49
+2016;Sergipe;Tentativa de homicidio;526
+2016;Sergipe;Violación;544
+2016;Tocantins;Homicidio doloso;417
+2016;Tocantins;Hurto en el vehículo;1499
+2016;Tocantins;Lesiones corporales seguidas de muerte;5
+2016;Tocantins;Robo a entidad financiera;27
+2016;Tocantins;Robo de mercancía;23
+2016;Tocantins;Robo de vehiculo;930
+2016;Tocantins;Robo seguido de muerte;14
+2016;Tocantins;Tentativa de homicidio;341
+2016;Tocantins;Violación;450
+2017;Acre;Homicidio doloso;221
+2017;Acre;Hurto en el vehículo;539
+2017;Acre;Lesiones corporales seguidas de muerte;0
+2017;Acre;Robo a entidad financiera;5
+2017;Acre;Robo de mercancía;3
+2017;Acre;Robo de vehiculo;849
+2017;Acre;Robo seguido de muerte;10
+2017;Acre;Tentativa de homicidio;61
+2017;Acre;Violación;108
+2017;Alagoas;Homicidio doloso;1672
+2017;Alagoas;Hurto en el vehículo;1194
+2017;Alagoas;Lesiones corporales seguidas de muerte;19
+2017;Alagoas;Robo a entidad financiera;21
+2017;Alagoas;Robo de mercancía;77
+2017;Alagoas;Robo de vehiculo;3133
+2017;Alagoas;Robo seguido de muerte;59
+2017;Alagoas;Tentativa de homicidio;577
+2017;Alagoas;Violación;676
+2017;Amapá;Homicidio doloso;265
+2017;Amapá;Hurto en el vehículo;721
+2017;Amapá;Lesiones corporales seguidas de muerte;22
+2017;Amapá;Robo a entidad financiera;8
+2017;Amapá;Robo de mercancía;1
+2017;Amapá;Robo de vehiculo;267
+2017;Amapá;Robo seguido de muerte;23
+2017;Amapá;Tentativa de homicidio;271
+2017;Amapá;Violación;418
+2017;Amazonas;Homicidio doloso;1025
+2017;Amazonas;Hurto en el vehículo;3461
+2017;Amazonas;Lesiones corporales seguidas de muerte;37
+2017;Amazonas;Robo a entidad financiera;19
+2017;Amazonas;Robo de mercancía;4
+2017;Amazonas;Robo de vehiculo;4521
+2017;Amazonas;Robo seguido de muerte;65
+2017;Amazonas;Tentativa de homicidio;241
+2017;Amazonas;Violación;919
+2017;Bahia;Homicidio doloso;5843
+2017;Bahia;Hurto en el vehículo;5519
+2017;Bahia;Lesiones corporales seguidas de muerte;68
+2017;Bahia;Robo a entidad financiera;28
+2017;Bahia;Robo de mercancía;417
+2017;Bahia;Robo de vehiculo;13525
+2017;Bahia;Robo seguido de muerte;172
+2017;Bahia;Tentativa de homicidio;2790
+2017;Bahia;Violación;3184
+2017;Ceará;Homicidio doloso;4746
+2017;Ceará;Hurto en el vehículo;4997
+2017;Ceará;Lesiones corporales seguidas de muerte;40
+2017;Ceará;Robo a entidad financiera;56
+2017;Ceará;Robo de mercancía;310
+2017;Ceará;Robo de vehiculo;11133
+2017;Ceará;Robo seguido de muerte;87
+2017;Ceará;Tentativa de homicidio;1311
+2017;Ceará;Violación;1588
+2017;Distrito Federal Brasilia;Homicidio doloso;483
+2017;Distrito Federal Brasilia;Hurto en el vehículo;5717
+2017;Distrito Federal Brasilia;Lesiones corporales seguidas de muerte;5
+2017;Distrito Federal Brasilia;Robo a entidad financiera;4
+2017;Distrito Federal Brasilia;Robo de mercancía;75
+2017;Distrito Federal Brasilia;Robo de vehiculo;4872
+2017;Distrito Federal Brasilia;Robo seguido de muerte;35
+2017;Distrito Federal Brasilia;Tentativa de homicidio;906
+2017;Distrito Federal Brasilia;Violación;711
+2017;Espírito Santo;Homicidio doloso;1407
+2017;Espírito Santo;Hurto en el vehículo;4713
+2017;Espírito Santo;Lesiones corporales seguidas de muerte;10
+2017;Espírito Santo;Robo a entidad financiera;11
+2017;Espírito Santo;Robo de mercancía;28
+2017;Espírito Santo;Robo de vehiculo;6056
+2017;Espírito Santo;Robo seguido de muerte;45
+2017;Espírito Santo;Tentativa de homicidio;2693
+2017;Espírito Santo;Violación;405
+2017;Goiás;Homicidio doloso;2247
+2017;Goiás;Hurto en el vehículo;10824
+2017;Goiás;Lesiones corporales seguidas de muerte;43
+2017;Goiás;Robo a entidad financiera;45
+2017;Goiás;Robo de mercancía;474
+2017;Goiás;Robo de vehiculo;12846
+2017;Goiás;Robo seguido de muerte;98
+2017;Goiás;Tentativa de homicidio;2423
+2017;Goiás;Violación;627
+2017;Maranhao;Homicidio doloso;1820
+2017;Maranhao;Hurto en el vehículo;3130
+2017;Maranhao;Lesiones corporales seguidas de muerte;32
+2017;Maranhao;Robo a entidad financiera;74
+2017;Maranhao;Robo de mercancía;57
+2017;Maranhao;Robo de vehiculo;4477
+2017;Maranhao;Robo seguido de muerte;97
+2017;Maranhao;Tentativa de homicidio;1073
+2017;Maranhao;Violación;1199
+2017;Mato Grosso;Homicidio doloso;985
+2017;Mato Grosso;Hurto en el vehículo;2817
+2017;Mato Grosso;Lesiones corporales seguidas de muerte;18
+2017;Mato Grosso;Robo a entidad financiera;7
+2017;Mato Grosso;Robo de mercancía;20
+2017;Mato Grosso;Robo de vehiculo;2585
+2017;Mato Grosso;Robo seguido de muerte;50
+2017;Mato Grosso;Tentativa de homicidio;1316
+2017;Mato Grosso;Violación;1705
+2017;Mato Grosso do Sul;Homicidio doloso;528
+2017;Mato Grosso do Sul;Hurto en el vehículo;3634
+2017;Mato Grosso do Sul;Lesiones corporales seguidas de muerte;11
+2017;Mato Grosso do Sul;Robo a entidad financiera;11
+2017;Mato Grosso do Sul;Robo de mercancía;0
+2017;Mato Grosso do Sul;Robo de vehiculo;895
+2017;Mato Grosso do Sul;Robo seguido de muerte;23
+2017;Mato Grosso do Sul;Tentativa de homicidio;830
+2017;Mato Grosso do Sul;Violación;1808
+2017;Minas Gerais;Homicidio doloso;3817
+2017;Minas Gerais;Hurto en el vehículo;25605
+2017;Minas Gerais;Lesiones corporales seguidas de muerte;66
+2017;Minas Gerais;Robo a entidad financiera;83
+2017;Minas Gerais;Robo de mercancía;655
+2017;Minas Gerais;Robo de vehiculo;13042
+2017;Minas Gerais;Robo seguido de muerte;98
+2017;Minas Gerais;Tentativa de homicidio;4375
+2017;Minas Gerais;Violación;1578
+2017;Pará;Homicidio doloso;3716
+2017;Pará;Hurto en el vehículo;5094
+2017;Pará;Lesiones corporales seguidas de muerte;40
+2017;Pará;Robo a entidad financiera;32
+2017;Pará;Robo de mercancía;129
+2017;Pará;Robo de vehiculo;8569
+2017;Pará;Robo seguido de muerte;225
+2017;Pará;Tentativa de homicidio;1358
+2017;Pará;Violación;3141
+2017;Paraíba;Homicidio doloso;1203
+2017;Paraíba;Hurto en el vehículo;216
+2017;Paraíba;Lesiones corporales seguidas de muerte;6
+2017;Paraíba;Robo a entidad financiera;23
+2017;Paraíba;Robo de mercancía;2
+2017;Paraíba;Robo de vehiculo;228
+2017;Paraíba;Robo seguido de muerte;37
+2017;Paraíba;Tentativa de homicidio;267
+2017;Paraíba;Violación;353
+2017;Paraná;Homicidio doloso;2090
+2017;Paraná;Hurto en el vehículo;19346
+2017;Paraná;Lesiones corporales seguidas de muerte;59
+2017;Paraná;Robo de mercancía;946
+2017;Paraná;Robo de vehiculo;11366
+2017;Paraná;Robo seguido de muerte;63
+2017;Paraná;Tentativa de homicidio;747
+2017;Paraná;Violación;5401
+2017;Pernambuco;Homicidio doloso;4910
+2017;Pernambuco;Hurto en el vehículo;6612
+2017;Pernambuco;Lesiones corporales seguidas de muerte;37
+2017;Pernambuco;Robo a entidad financiera;59
+2017;Pernambuco;Robo de mercancía;673
+2017;Pernambuco;Robo de vehiculo;19402
+2017;Pernambuco;Robo seguido de muerte;227
+2017;Pernambuco;Tentativa de homicidio;3624
+2017;Pernambuco;Violación;1651
+2017;Piauí;Homicidio doloso;598
+2017;Piauí;Hurto en el vehículo;2563
+2017;Piauí;Lesiones corporales seguidas de muerte;10
+2017;Piauí;Robo a entidad financiera;5
+2017;Piauí;Robo de mercancía;33
+2017;Piauí;Robo de vehiculo;3101
+2017;Piauí;Robo seguido de muerte;43
+2017;Piauí;Tentativa de homicidio;635
+2017;Piauí;Violación;773
+2017;Rio de Janeiro;Homicidio doloso;4923
+2017;Rio de Janeiro;Hurto en el vehículo;15708
+2017;Rio de Janeiro;Lesiones corporales seguidas de muerte;39
+2017;Rio de Janeiro;Robo a entidad financiera;82
+2017;Rio de Janeiro;Robo de mercancía;10599
+2017;Rio de Janeiro;Robo de vehiculo;54366
+2017;Rio de Janeiro;Robo seguido de muerte;217
+2017;Rio de Janeiro;Tentativa de homicidio;3727
+2017;Rio de Janeiro;Violación;4385
+2017;Rio Grande do Norte;Homicidio doloso;1862
+2017;Rio Grande do Norte;Hurto en el vehículo;1329
+2017;Rio Grande do Norte;Lesiones corporales seguidas de muerte;301
+2017;Rio Grande do Norte;Robo a entidad financiera;16
+2017;Rio Grande do Norte;Robo de mercancía;20
+2017;Rio Grande do Norte;Robo de vehiculo;6992
+2017;Rio Grande do Norte;Robo seguido de muerte;83
+2017;Rio Grande do Norte;Tentativa de homicidio;75
+2017;Rio Grande do Norte;Violación;89
+2017;Rio Grande do Sul;Homicidio doloso;2708
+2017;Rio Grande do Sul;Hurto en el vehículo;16893
+2017;Rio Grande do Sul;Lesiones corporales seguidas de muerte;34
+2017;Rio Grande do Sul;Robo a entidad financiera;68
+2017;Rio Grande do Sul;Robo de mercancía;414
+2017;Rio Grande do Sul;Robo de vehiculo;17859
+2017;Rio Grande do Sul;Robo seguido de muerte;131
+2017;Rio Grande do Sul;Tentativa de homicidio;3756
+2017;Rio Grande do Sul;Violación;5137
+2017;Rondonia;Homicidio doloso;459
+2017;Rondonia;Hurto en el vehículo;2559
+2017;Rondonia;Lesiones corporales seguidas de muerte;6
+2017;Rondonia;Robo a entidad financiera;0
+2017;Rondonia;Robo de mercancía;0
+2017;Rondonia;Robo de vehiculo;1671
+2017;Rondonia;Robo seguido de muerte;21
+2017;Rondonia;Tentativa de homicidio;758
+2017;Rondonia;Violación;941
+2017;Roraima;Homicidio doloso;159
+2017;Roraima;Hurto en el vehículo;790
+2017;Roraima;Lesiones corporales seguidas de muerte;7
+2017;Roraima;Robo a entidad financiera;1
+2017;Roraima;Robo de mercancía;1
+2017;Roraima;Robo de vehiculo;358
+2017;Roraima;Robo seguido de muerte;7
+2017;Roraima;Tentativa de homicidio;146
+2017;Roraima;Violación;313
+2017;San Pablo;Homicidio doloso;3294
+2017;San Pablo;Hurto en el vehículo;104829
+2017;San Pablo;Lesiones corporales seguidas de muerte;49
+2017;San Pablo;Robo a entidad financiera;97
+2017;San Pablo;Robo de mercancía;10584
+2017;San Pablo;Robo de vehiculo;67964
+2017;San Pablo;Robo seguido de muerte;334
+2017;San Pablo;Tentativa de homicidio;3813
+2017;San Pablo;Violación;11089
+2017;Santa Catarina;Homicidio doloso;942
+2017;Santa Catarina;Hurto en el vehículo;11987
+2017;Santa Catarina;Lesiones corporales seguidas de muerte;26
+2017;Santa Catarina;Robo a entidad financiera;57
+2017;Santa Catarina;Robo de mercancía;209
+2017;Santa Catarina;Robo de vehiculo;3000
+2017;Santa Catarina;Robo seguido de muerte;63
+2017;Santa Catarina;Tentativa de homicidio;1523
+2017;Santa Catarina;Violación;1182
+2017;Sergipe;Homicidio doloso;1121
+2017;Sergipe;Hurto en el vehículo;886
+2017;Sergipe;Lesiones corporales seguidas de muerte;5
+2017;Sergipe;Robo a entidad financiera;8
+2017;Sergipe;Robo de mercancía;15
+2017;Sergipe;Robo de vehiculo;2815
+2017;Sergipe;Robo seguido de muerte;59
+2017;Sergipe;Tentativa de homicidio;513
+2017;Sergipe;Violación;568
+2017;Tocantins;Homicidio doloso;337
+2017;Tocantins;Hurto en el vehículo;1539
+2017;Tocantins;Lesiones corporales seguidas de muerte;7
+2017;Tocantins;Robo a entidad financiera;23
+2017;Tocantins;Robo de mercancía;8
+2017;Tocantins;Robo de vehiculo;815
+2017;Tocantins;Robo seguido de muerte;11
+2017;Tocantins;Tentativa de homicidio;335
+2017;Tocantins;Violación;564
+2018;Acre;Homicidio doloso;396
+2018;Acre;Hurto en el vehículo;704
+2018;Acre;Lesiones corporales seguidas de muerte;0
+2018;Acre;Robo a entidad financiera;3
+2018;Acre;Robo de mercancía;1
+2018;Acre;Robo de vehiculo;1080
+2018;Acre;Robo seguido de muerte;20
+2018;Acre;Tentativa de homicidio;86
+2018;Acre;Violación;260
+2018;Alagoas;Homicidio doloso;1309
+2018;Alagoas;Hurto en el vehículo;1158
+2018;Alagoas;Lesiones corporales seguidas de muerte;8
+2018;Alagoas;Robo a entidad financiera;22
+2018;Alagoas;Robo de mercancía;85
+2018;Alagoas;Robo de vehiculo;3481
+2018;Alagoas;Robo seguido de muerte;39
+2018;Alagoas;Tentativa de homicidio;440
+2018;Alagoas;Violación;455
+2018;Amapá;Homicidio doloso;286
+2018;Amapá;Hurto en el vehículo;722
+2018;Amapá;Lesiones corporales seguidas de muerte;33
+2018;Amapá;Robo a entidad financiera;14
+2018;Amapá;Robo de mercancía;12
+2018;Amapá;Robo de vehiculo;537
+2018;Amapá;Robo seguido de muerte;33
+2018;Amapá;Tentativa de homicidio;103
+2018;Amapá;Violación;285
+2018;Amazonas;Homicidio doloso;1051
+2018;Amazonas;Hurto en el vehículo;2252
+2018;Amazonas;Lesiones corporales seguidas de muerte;28
+2018;Amazonas;Robo a entidad financiera;4
+2018;Amazonas;Robo de mercancía;7
+2018;Amazonas;Robo de vehiculo;3080
+2018;Amazonas;Robo seguido de muerte;54
+2018;Amazonas;Tentativa de homicidio;247
+2018;Amazonas;Violación;988
+2018;Bahia;Homicidio doloso;5199
+2018;Bahia;Hurto en el vehículo;5332
+2018;Bahia;Lesiones corporales seguidas de muerte;72
+2018;Bahia;Robo a entidad financiera;10
+2018;Bahia;Robo de mercancía;304
+2018;Bahia;Robo de vehiculo;13348
+2018;Bahia;Robo seguido de muerte;135
+2018;Bahia;Tentativa de homicidio;2590
+2018;Bahia;Violación;3158
+2018;Ceará;Homicidio doloso;4183
+2018;Ceará;Hurto en el vehículo;4184
+2018;Ceará;Lesiones corporales seguidas de muerte;32
+2018;Ceará;Robo a entidad financiera;41
+2018;Ceará;Robo de mercancía;244
+2018;Ceará;Robo de vehiculo;9319
+2018;Ceará;Robo seguido de muerte;47
+2018;Ceará;Tentativa de homicidio;1263
+2018;Ceará;Violación;1642
+2018;Distrito Federal Brasilia;Homicidio doloso;418
+2018;Distrito Federal Brasilia;Hurto en el vehículo;4888
+2018;Distrito Federal Brasilia;Lesiones corporales seguidas de muerte;7
+2018;Distrito Federal Brasilia;Robo a entidad financiera;3
+2018;Distrito Federal Brasilia;Robo de mercancía;55
+2018;Distrito Federal Brasilia;Robo de vehiculo;3962
+2018;Distrito Federal Brasilia;Robo seguido de muerte;28
+2018;Distrito Federal Brasilia;Tentativa de homicidio;842
+2018;Distrito Federal Brasilia;Violación;659
+2018;Espírito Santo;Homicidio doloso;1108
+2018;Espírito Santo;Hurto en el vehículo;4448
+2018;Espírito Santo;Lesiones corporales seguidas de muerte;10
+2018;Espírito Santo;Robo a entidad financiera;23
+2018;Espírito Santo;Robo de mercancía;13
+2018;Espírito Santo;Robo de vehiculo;4433
+2018;Espírito Santo;Robo seguido de muerte;34
+2018;Espírito Santo;Tentativa de homicidio;2162
+2018;Espírito Santo;Violación;481
+2018;Goiás;Homicidio doloso;2011
+2018;Goiás;Hurto en el vehículo;11267
+2018;Goiás;Lesiones corporales seguidas de muerte;64
+2018;Goiás;Robo a entidad financiera;30
+2018;Goiás;Robo de mercancía;400
+2018;Goiás;Robo de vehiculo;10163
+2018;Goiás;Robo seguido de muerte;84
+2018;Goiás;Tentativa de homicidio;1968
+2018;Goiás;Violación;662
+2018;Maranhao;Homicidio doloso;1617
+2018;Maranhao;Hurto en el vehículo;2980
+2018;Maranhao;Lesiones corporales seguidas de muerte;14
+2018;Maranhao;Robo a entidad financiera;38
+2018;Maranhao;Robo de mercancía;37
+2018;Maranhao;Robo de vehiculo;4093
+2018;Maranhao;Robo seguido de muerte;71
+2018;Maranhao;Tentativa de homicidio;1056
+2018;Maranhao;Violación;1189
+2018;Mato Grosso;Homicidio doloso;916
+2018;Mato Grosso;Hurto en el vehículo;2438
+2018;Mato Grosso;Lesiones corporales seguidas de muerte;26
+2018;Mato Grosso;Robo a entidad financiera;9
+2018;Mato Grosso;Robo de mercancía;18
+2018;Mato Grosso;Robo de vehiculo;1895
+2018;Mato Grosso;Robo seguido de muerte;36
+2018;Mato Grosso;Tentativa de homicidio;1229
+2018;Mato Grosso;Violación;1676
+2018;Mato Grosso do Sul;Homicidio doloso;455
+2018;Mato Grosso do Sul;Hurto en el vehículo;3700
+2018;Mato Grosso do Sul;Lesiones corporales seguidas de muerte;7
+2018;Mato Grosso do Sul;Robo a entidad financiera;12
+2018;Mato Grosso do Sul;Robo de mercancía;0
+2018;Mato Grosso do Sul;Robo de vehiculo;782
+2018;Mato Grosso do Sul;Robo seguido de muerte;25
+2018;Mato Grosso do Sul;Tentativa de homicidio;692
+2018;Mato Grosso do Sul;Violación;1816
+2018;Minas Gerais;Homicidio doloso;2948
+2018;Minas Gerais;Hurto en el vehículo;21401
+2018;Minas Gerais;Lesiones corporales seguidas de muerte;58
+2018;Minas Gerais;Robo a entidad financiera;91
+2018;Minas Gerais;Robo de mercancía;525
+2018;Minas Gerais;Robo de vehiculo;9522
+2018;Minas Gerais;Robo seguido de muerte;81
+2018;Minas Gerais;Tentativa de homicidio;3523
+2018;Minas Gerais;Violación;1468
+2018;Pará;Homicidio doloso;3556
+2018;Pará;Hurto en el vehículo;4202
+2018;Pará;Lesiones corporales seguidas de muerte;16
+2018;Pará;Robo a entidad financiera;29
+2018;Pará;Robo de mercancía;112
+2018;Pará;Robo de vehiculo;6591
+2018;Pará;Robo seguido de muerte;188
+2018;Pará;Tentativa de homicidio;1669
+2018;Pará;Violación;3441
+2018;Paraíba;Homicidio doloso;1173
+2018;Paraíba;Hurto en el vehículo;1566
+2018;Paraíba;Lesiones corporales seguidas de muerte;5
+2018;Paraíba;Robo a entidad financiera;67
+2018;Paraíba;Robo de mercancía;48
+2018;Paraíba;Robo de vehiculo;3834
+2018;Paraíba;Robo seguido de muerte;33
+2018;Paraíba;Tentativa de homicidio;181
+2018;Paraíba;Violación;245
+2018;Paraná;Homicidio doloso;1454
+2018;Paraná;Hurto en el vehículo;17620
+2018;Paraná;Lesiones corporales seguidas de muerte;47
+2018;Paraná;Robo a entidad financiera;24
+2018;Paraná;Robo de mercancía;695
+2018;Paraná;Robo de vehiculo;7870
+2018;Paraná;Robo seguido de muerte;53
+2018;Paraná;Tentativa de homicidio;482
+2018;Paraná;Violación;6363
+2018;Pernambuco;Homicidio doloso;3816
+2018;Pernambuco;Hurto en el vehículo;5387
+2018;Pernambuco;Lesiones corporales seguidas de muerte;16
+2018;Pernambuco;Robo a entidad financiera;26
+2018;Pernambuco;Robo de mercancía;566
+2018;Pernambuco;Robo de vehiculo;15327
+2018;Pernambuco;Robo seguido de muerte;117
+2018;Pernambuco;Tentativa de homicidio;3354
+2018;Pernambuco;Violación;1935
+2018;Piauí;Homicidio doloso;562
+2018;Piauí;Hurto en el vehículo;3204
+2018;Piauí;Lesiones corporales seguidas de muerte;8
+2018;Piauí;Robo a entidad financiera;7
+2018;Piauí;Robo de mercancía;29
+2018;Piauí;Robo de vehiculo;3880
+2018;Piauí;Robo seguido de muerte;46
+2018;Piauí;Tentativa de homicidio;564
+2018;Piauí;Violación;675
+2018;Rio de Janeiro;Homicidio doloso;4553
+2018;Rio de Janeiro;Hurto en el vehículo;15794
+2018;Rio de Janeiro;Lesiones corporales seguidas de muerte;56
+2018;Rio de Janeiro;Robo a entidad financiera;79
+2018;Rio de Janeiro;Robo de mercancía;9182
+2018;Rio de Janeiro;Robo de vehiculo;52097
+2018;Rio de Janeiro;Robo seguido de muerte;165
+2018;Rio de Janeiro;Tentativa de homicidio;3914
+2018;Rio de Janeiro;Violación;4752
+2018;Rio Grande do Norte;Homicidio doloso;1420
+2018;Rio Grande do Norte;Hurto en el vehículo;1043
+2018;Rio Grande do Norte;Lesiones corporales seguidas de muerte;248
+2018;Rio Grande do Norte;Robo a entidad financiera;15
+2018;Rio Grande do Norte;Robo de mercancía;17
+2018;Rio Grande do Norte;Robo de vehiculo;6982
+2018;Rio Grande do Norte;Robo seguido de muerte;108
+2018;Rio Grande do Norte;Tentativa de homicidio;75
+2018;Rio Grande do Norte;Violación;109
+2018;Rio Grande do Sul;Homicidio doloso;2148
+2018;Rio Grande do Sul;Hurto en el vehículo;14407
+2018;Rio Grande do Sul;Lesiones corporales seguidas de muerte;30
+2018;Rio Grande do Sul;Robo a entidad financiera;80
+2018;Rio Grande do Sul;Robo de mercancía;396
+2018;Rio Grande do Sul;Robo de vehiculo;16121
+2018;Rio Grande do Sul;Robo seguido de muerte;91
+2018;Rio Grande do Sul;Tentativa de homicidio;3122
+2018;Rio Grande do Sul;Violación;5186
+2018;Rondonia;Homicidio doloso;408
+2018;Rondonia;Hurto en el vehículo;2513
+2018;Rondonia;Lesiones corporales seguidas de muerte;0
+2018;Rondonia;Robo a entidad financiera;0
+2018;Rondonia;Robo de mercancía;0
+2018;Rondonia;Robo de vehiculo;1724
+2018;Rondonia;Robo seguido de muerte;16
+2018;Rondonia;Tentativa de homicidio;735
+2018;Rondonia;Violación;1024
+2018;Roraima;Homicidio doloso;330
+2018;Roraima;Hurto en el vehículo;636
+2018;Roraima;Lesiones corporales seguidas de muerte;7
+2018;Roraima;Robo a entidad financiera;6
+2018;Roraima;Robo de mercancía;0
+2018;Roraima;Robo de vehiculo;529
+2018;Roraima;Robo seguido de muerte;13
+2018;Roraima;Tentativa de homicidio;149
+2018;Roraima;Violación;225
+2018;San Pablo;Homicidio doloso;2949
+2018;San Pablo;Hurto en el vehículo;97653
+2018;San Pablo;Lesiones corporales seguidas de muerte;80
+2018;San Pablo;Robo a entidad financiera;54
+2018;San Pablo;Robo de mercancía;8738
+2018;San Pablo;Robo de vehiculo;58355
+2018;San Pablo;Robo seguido de muerte;270
+2018;San Pablo;Tentativa de homicidio;3484
+2018;San Pablo;Violación;11949
+2018;Santa Catarina;Homicidio doloso;746
+2018;Santa Catarina;Hurto en el vehículo;9133
+2018;Santa Catarina;Lesiones corporales seguidas de muerte;21
+2018;Santa Catarina;Robo a entidad financiera;25
+2018;Santa Catarina;Robo de mercancía;151
+2018;Santa Catarina;Robo de vehiculo;2219
+2018;Santa Catarina;Robo seguido de muerte;39
+2018;Santa Catarina;Tentativa de homicidio;1348
+2018;Santa Catarina;Violación;1275
+2018;Sergipe;Homicidio doloso;946
+2018;Sergipe;Hurto en el vehículo;776
+2018;Sergipe;Lesiones corporales seguidas de muerte;6
+2018;Sergipe;Robo a entidad financiera;0
+2018;Sergipe;Robo de mercancía;1
+2018;Sergipe;Robo de vehiculo;2639
+2018;Sergipe;Robo seguido de muerte;32
+2018;Sergipe;Tentativa de homicidio;552
+2018;Sergipe;Violación;588
+2018;Tocantins;Homicidio doloso;363
+2018;Tocantins;Hurto en el vehículo;2092
+2018;Tocantins;Lesiones corporales seguidas de muerte;7
+2018;Tocantins;Robo a entidad financiera;7
+2018;Tocantins;Robo de mercancía;0
+2018;Tocantins;Robo de vehiculo;1091
+2018;Tocantins;Robo seguido de muerte;16
+2018;Tocantins;Tentativa de homicidio;417
+2018;Tocantins;Violación;727
+2019;Acre;Homicidio doloso;292
+2019;Acre;Hurto en el vehículo;572
+2019;Acre;Lesiones corporales seguidas de muerte;2
+2019;Acre;Robo a entidad financiera;4
+2019;Acre;Robo de mercancía;4
+2019;Acre;Robo de vehiculo;1246
+2019;Acre;Robo seguido de muerte;14
+2019;Acre;Tentativa de homicidio;134
+2019;Acre;Violación;330
+2019;Alagoas;Homicidio doloso;1028
+2019;Alagoas;Hurto en el vehículo;1376
+2019;Alagoas;Lesiones corporales seguidas de muerte;6
+2019;Alagoas;Robo a entidad financiera;4
+2019;Alagoas;Robo de mercancía;39
+2019;Alagoas;Robo de vehiculo;2413
+2019;Alagoas;Robo seguido de muerte;17
+2019;Alagoas;Tentativa de homicidio;430
+2019;Alagoas;Violación;634
+2019;Amapá;Homicidio doloso;232
+2019;Amapá;Hurto en el vehículo;526
+2019;Amapá;Lesiones corporales seguidas de muerte;23
+2019;Amapá;Robo a entidad financiera;8
+2019;Amapá;Robo de mercancía;15
+2019;Amapá;Robo de vehiculo;447
+2019;Amapá;Robo seguido de muerte;15
+2019;Amapá;Tentativa de homicidio;212
+2019;Amapá;Violación;471
+2019;Amazonas;Homicidio doloso;984
+2019;Amazonas;Hurto en el vehículo;1970
+2019;Amazonas;Lesiones corporales seguidas de muerte;23
+2019;Amazonas;Robo a entidad financiera;1
+2019;Amazonas;Robo de mercancía;9
+2019;Amazonas;Robo de vehiculo;2446
+2019;Amazonas;Robo seguido de muerte;46
+2019;Amazonas;Tentativa de homicidio;254
+2019;Amazonas;Violación;844
+2019;Bahia;Homicidio doloso;4754
+2019;Bahia;Hurto en el vehículo;5289
+2019;Bahia;Lesiones corporales seguidas de muerte;74
+2019;Bahia;Robo a entidad financiera;4
+2019;Bahia;Robo de mercancía;274
+2019;Bahia;Robo de vehiculo;11523
+2019;Bahia;Robo seguido de muerte;139
+2019;Bahia;Tentativa de homicidio;2686
+2019;Bahia;Violación;3313
+2019;Ceará;Homicidio doloso;2087
+2019;Ceará;Hurto en el vehículo;4602
+2019;Ceará;Lesiones corporales seguidas de muerte;30
+2019;Ceará;Robo a entidad financiera;14
+2019;Ceará;Robo de mercancía;90
+2019;Ceará;Robo de vehiculo;5128
+2019;Ceará;Robo seguido de muerte;36
+2019;Ceará;Tentativa de homicidio;1174
+2019;Ceará;Violación;1810
+2019;Distrito Federal Brasilia;Homicidio doloso;372
+2019;Distrito Federal Brasilia;Hurto en el vehículo;5125
+2019;Distrito Federal Brasilia;Lesiones corporales seguidas de muerte;4
+2019;Distrito Federal Brasilia;Robo a entidad financiera;0
+2019;Distrito Federal Brasilia;Robo de mercancía;34
+2019;Distrito Federal Brasilia;Robo de vehiculo;3427
+2019;Distrito Federal Brasilia;Robo seguido de muerte;24
+2019;Distrito Federal Brasilia;Tentativa de homicidio;797
+2019;Distrito Federal Brasilia;Violación;666
+2019;Espírito Santo;Homicidio doloso;937
+2019;Espírito Santo;Hurto en el vehículo;5600
+2019;Espírito Santo;Lesiones corporales seguidas de muerte;11
+2019;Espírito Santo;Robo a entidad financiera;40
+2019;Espírito Santo;Robo de mercancía;20
+2019;Espírito Santo;Robo de vehiculo;3957
+2019;Espírito Santo;Robo seguido de muerte;26
+2019;Espírito Santo;Tentativa de homicidio;1941
+2019;Espírito Santo;Violación;491
+2019;Goiás;Homicidio doloso;1575
+2019;Goiás;Hurto en el vehículo;8277
+2019;Goiás;Lesiones corporales seguidas de muerte;54
+2019;Goiás;Robo a entidad financiera;21
+2019;Goiás;Robo de mercancía;151
+2019;Goiás;Robo de vehiculo;4792
+2019;Goiás;Robo seguido de muerte;70
+2019;Goiás;Tentativa de homicidio;1936
+2019;Goiás;Violación;711
+2019;Maranhao;Homicidio doloso;1397
+2019;Maranhao;Hurto en el vehículo;2539
+2019;Maranhao;Lesiones corporales seguidas de muerte;13
+2019;Maranhao;Robo a entidad financiera;39
+2019;Maranhao;Robo de mercancía;42
+2019;Maranhao;Robo de vehiculo;3252
+2019;Maranhao;Robo seguido de muerte;75
+2019;Maranhao;Tentativa de homicidio;918
+2019;Maranhao;Violación;1470
+2019;Mato Grosso;Homicidio doloso;770
+2019;Mato Grosso;Hurto en el vehículo;2367
+2019;Mato Grosso;Lesiones corporales seguidas de muerte;23
+2019;Mato Grosso;Robo a entidad financiera;2
+2019;Mato Grosso;Robo de mercancía;38
+2019;Mato Grosso;Robo de vehiculo;1836
+2019;Mato Grosso;Robo seguido de muerte;41
+2019;Mato Grosso;Tentativa de homicidio;1198
+2019;Mato Grosso;Violación;1717
+2019;Mato Grosso do Sul;Homicidio doloso;411
+2019;Mato Grosso do Sul;Hurto en el vehículo;3464
+2019;Mato Grosso do Sul;Lesiones corporales seguidas de muerte;7
+2019;Mato Grosso do Sul;Robo a entidad financiera;7
+2019;Mato Grosso do Sul;Robo de mercancía;1
+2019;Mato Grosso do Sul;Robo de vehiculo;531
+2019;Mato Grosso do Sul;Robo seguido de muerte;14
+2019;Mato Grosso do Sul;Tentativa de homicidio;706
+2019;Mato Grosso do Sul;Violación;1634
+2019;Minas Gerais;Homicidio doloso;2626
+2019;Minas Gerais;Hurto en el vehículo;20457
+2019;Minas Gerais;Lesiones corporales seguidas de muerte;56
+2019;Minas Gerais;Robo a entidad financiera;29
+2019;Minas Gerais;Robo de mercancía;356
+2019;Minas Gerais;Robo de vehiculo;6102
+2019;Minas Gerais;Robo seguido de muerte;74
+2019;Minas Gerais;Tentativa de homicidio;2855
+2019;Minas Gerais;Violación;1230
+2019;Pará;Homicidio doloso;2541
+2019;Pará;Hurto en el vehículo;3588
+2019;Pará;Lesiones corporales seguidas de muerte;32
+2019;Pará;Robo a entidad financiera;25
+2019;Pará;Robo de mercancía;180
+2019;Pará;Robo de vehiculo;3896
+2019;Pará;Robo seguido de muerte;122
+2019;Pará;Tentativa de homicidio;1525
+2019;Pará;Violación;3415
+2019;Paraíba;Homicidio doloso;925
+2019;Paraíba;Hurto en el vehículo;882
+2019;Paraíba;Lesiones corporales seguidas de muerte;0
+2019;Paraíba;Robo a entidad financiera;22
+2019;Paraíba;Robo de mercancía;13
+2019;Paraíba;Robo de vehiculo;1963
+2019;Paraíba;Robo seguido de muerte;18
+2019;Paraíba;Tentativa de homicidio;269
+2019;Paraíba;Violación;224
+2019;Paraná;Homicidio doloso;1705
+2019;Paraná;Hurto en el vehículo;15967
+2019;Paraná;Lesiones corporales seguidas de muerte;51
+2019;Paraná;Robo a entidad financiera;27
+2019;Paraná;Robo de mercancía;626
+2019;Paraná;Robo de vehiculo;5789
+2019;Paraná;Robo seguido de muerte;59
+2019;Paraná;Tentativa de homicidio;434
+2019;Paraná;Violación;6269
+2019;Pernambuco;Homicidio doloso;3188
+2019;Pernambuco;Hurto en el vehículo;6137
+2019;Pernambuco;Lesiones corporales seguidas de muerte;18
+2019;Pernambuco;Robo a entidad financiera;9
+2019;Pernambuco;Robo de mercancía;554
+2019;Pernambuco;Robo de vehiculo;13127
+2019;Pernambuco;Robo seguido de muerte;132
+2019;Pernambuco;Tentativa de homicidio;3602
+2019;Pernambuco;Violación;2078
+2019;Piauí;Homicidio doloso;548
+2019;Piauí;Hurto en el vehículo;2943
+2019;Piauí;Lesiones corporales seguidas de muerte;15
+2019;Piauí;Robo a entidad financiera;4
+2019;Piauí;Robo de mercancía;19
+2019;Piauí;Robo de vehiculo;4310
+2019;Piauí;Robo seguido de muerte;34
+2019;Piauí;Tentativa de homicidio;558
+2019;Piauí;Violación;675
+2019;Rio de Janeiro;Homicidio doloso;3662
+2019;Rio de Janeiro;Hurto en el vehículo;15594
+2019;Rio de Janeiro;Lesiones corporales seguidas de muerte;45
+2019;Rio de Janeiro;Robo a entidad financiera;57
+2019;Rio de Janeiro;Robo de mercancía;7455
+2019;Rio de Janeiro;Robo de vehiculo;39750
+2019;Rio de Janeiro;Robo seguido de muerte;109
+2019;Rio de Janeiro;Tentativa de homicidio;3407
+2019;Rio de Janeiro;Violación;4921
+2019;Rio Grande do Norte;Homicidio doloso;1027
+2019;Rio Grande do Norte;Hurto en el vehículo;695
+2019;Rio Grande do Norte;Lesiones corporales seguidas de muerte;192
+2019;Rio Grande do Norte;Robo a entidad financiera;6
+2019;Rio Grande do Norte;Robo de mercancía;18
+2019;Rio Grande do Norte;Robo de vehiculo;4513
+2019;Rio Grande do Norte;Robo seguido de muerte;66
+2019;Rio Grande do Norte;Tentativa de homicidio;103
+2019;Rio Grande do Norte;Violación;235
+2019;Rio Grande do Sul;Homicidio doloso;1699
+2019;Rio Grande do Sul;Hurto en el vehículo;13105
+2019;Rio Grande do Sul;Lesiones corporales seguidas de muerte;28
+2019;Rio Grande do Sul;Robo a entidad financiera;52
+2019;Rio Grande do Sul;Robo de mercancía;306
+2019;Rio Grande do Sul;Robo de vehiculo;11125
+2019;Rio Grande do Sul;Robo seguido de muerte;63
+2019;Rio Grande do Sul;Tentativa de homicidio;2696
+2019;Rio Grande do Sul;Violación;4996
+2019;Rondonia;Homicidio doloso;378
+2019;Rondonia;Hurto en el vehículo;2189
+2019;Rondonia;Lesiones corporales seguidas de muerte;7
+2019;Rondonia;Robo a entidad financiera;1
+2019;Rondonia;Robo de mercancía;2
+2019;Rondonia;Robo de vehiculo;1816
+2019;Rondonia;Robo seguido de muerte;16
+2019;Rondonia;Tentativa de homicidio;690
+2019;Rondonia;Violación;1092
+2019;Roraima;Homicidio doloso;194
+2019;Roraima;Hurto en el vehículo;617
+2019;Roraima;Lesiones corporales seguidas de muerte;12
+2019;Roraima;Robo a entidad financiera;0
+2019;Roraima;Robo de mercancía;1
+2019;Roraima;Robo de vehiculo;315
+2019;Roraima;Robo seguido de muerte;18
+2019;Roraima;Tentativa de homicidio;133
+2019;Roraima;Violación;260
+2019;San Pablo;Homicidio doloso;2778
+2019;San Pablo;Hurto en el vehículo;84099
+2019;San Pablo;Lesiones corporales seguidas de muerte;99
+2019;San Pablo;Robo a entidad financiera;21
+2019;San Pablo;Robo de mercancía;7325
+2019;San Pablo;Robo de vehiculo;46513
+2019;San Pablo;Robo seguido de muerte;191
+2019;San Pablo;Tentativa de homicidio;3390
+2019;San Pablo;Violación;11614
+2019;Santa Catarina;Homicidio doloso;658
+2019;Santa Catarina;Hurto en el vehículo;8864
+2019;Santa Catarina;Lesiones corporales seguidas de muerte;15
+2019;Santa Catarina;Robo a entidad financiera;19
+2019;Santa Catarina;Robo de mercancía;39
+2019;Santa Catarina;Robo de vehiculo;1717
+2019;Santa Catarina;Robo seguido de muerte;26
+2019;Santa Catarina;Tentativa de homicidio;1407
+2019;Santa Catarina;Violación;1486
+2019;Sergipe;Homicidio doloso;778
+2019;Sergipe;Hurto en el vehículo;968
+2019;Sergipe;Lesiones corporales seguidas de muerte;4
+2019;Sergipe;Robo a entidad financiera;7
+2019;Sergipe;Robo de mercancía;7
+2019;Sergipe;Robo de vehiculo;2094
+2019;Sergipe;Robo seguido de muerte;27
+2019;Sergipe;Tentativa de homicidio;585
+2019;Sergipe;Violación;632
+2019;Tocantins;Homicidio doloso;301
+2019;Tocantins;Hurto en el vehículo;1569
+2019;Tocantins;Lesiones corporales seguidas de muerte;7
+2019;Tocantins;Robo a entidad financiera;3
+2019;Tocantins;Robo de mercancía;1
+2019;Tocantins;Robo de vehiculo;701
+2019;Tocantins;Robo seguido de muerte;18
+2019;Tocantins;Tentativa de homicidio;518
+2019;Tocantins;Violación;718
+2020;Acre;Homicidio doloso;271
+2020;Acre;Hurto en el vehículo;289
+2020;Acre;Lesiones corporales seguidas de muerte;1
+2020;Acre;Robo a entidad financiera;0
+2020;Acre;Robo de mercancía;0
+2020;Acre;Robo de vehiculo;836
+2020;Acre;Robo seguido de muerte;11
+2020;Acre;Tentativa de homicidio;162
+2020;Acre;Violación;280
+2020;Alagoas;Homicidio doloso;1187
+2020;Alagoas;Hurto en el vehículo;1585
+2020;Alagoas;Lesiones corporales seguidas de muerte;8
+2020;Alagoas;Robo a entidad financiera;0
+2020;Alagoas;Robo de mercancía;14
+2020;Alagoas;Robo de vehiculo;1530
+2020;Alagoas;Robo seguido de muerte;21
+2020;Alagoas;Tentativa de homicidio;415
+2020;Alagoas;Violación;644
+2020;Amapá;Homicidio doloso;223
+2020;Amapá;Hurto en el vehículo;157
+2020;Amapá;Lesiones corporales seguidas de muerte;15
+2020;Amapá;Robo a entidad financiera;3
+2020;Amapá;Robo de mercancía;0
+2020;Amapá;Robo de vehiculo;100
+2020;Amapá;Robo seguido de muerte;10
+2020;Amapá;Tentativa de homicidio;103
+2020;Amapá;Violación;249
+2020;Amazonas;Homicidio doloso;902
+2020;Amazonas;Hurto en el vehículo;1883
+2020;Amazonas;Lesiones corporales seguidas de muerte;19
+2020;Amazonas;Robo a entidad financiera;3
+2020;Amazonas;Robo de mercancía;15
+2020;Amazonas;Robo de vehiculo;1884
+2020;Amazonas;Robo seguido de muerte;45
+2020;Amazonas;Tentativa de homicidio;188
+2020;Amazonas;Violación;688
+2020;Bahia;Homicidio doloso;5088
+2020;Bahia;Hurto en el vehículo;4255
+2020;Bahia;Lesiones corporales seguidas de muerte;90
+2020;Bahia;Robo a entidad financiera;6
+2020;Bahia;Robo de mercancía;220
+2020;Bahia;Robo de vehiculo;10479
+2020;Bahia;Robo seguido de muerte;107
+2020;Bahia;Tentativa de homicidio;2251
+2020;Bahia;Violación;2960
+2020;Ceará;Homicidio doloso;3732
+2020;Ceará;Hurto en el vehículo;4200
+2020;Ceará;Lesiones corporales seguidas de muerte;30
+2020;Ceará;Robo a entidad financiera;8
+2020;Ceará;Robo de mercancía;63
+2020;Ceará;Robo de vehiculo;8609
+2020;Ceará;Robo seguido de muerte;47
+2020;Ceará;Tentativa de homicidio;1050
+2020;Ceará;Violación;1663
+2020;Distrito Federal Brasilia;Homicidio doloso;345
+2020;Distrito Federal Brasilia;Hurto en el vehículo;4346
+2020;Distrito Federal Brasilia;Lesiones corporales seguidas de muerte;6
+2020;Distrito Federal Brasilia;Robo a entidad financiera;0
+2020;Distrito Federal Brasilia;Robo de mercancía;30
+2020;Distrito Federal Brasilia;Robo de vehiculo;2220
+2020;Distrito Federal Brasilia;Robo seguido de muerte;30
+2020;Distrito Federal Brasilia;Tentativa de homicidio;715
+2020;Distrito Federal Brasilia;Violación;577
+2020;Espírito Santo;Homicidio doloso;1078
+2020;Espírito Santo;Hurto en el vehículo;5208
+2020;Espírito Santo;Lesiones corporales seguidas de muerte;16
+2020;Espírito Santo;Robo a entidad financiera;29
+2020;Espírito Santo;Robo de mercancía;25
+2020;Espírito Santo;Robo de vehiculo;3612
+2020;Espírito Santo;Robo seguido de muerte;38
+2020;Espírito Santo;Tentativa de homicidio;2170
+2020;Espírito Santo;Violación;1048
+2020;Goiás;Homicidio doloso;1451
+2020;Goiás;Hurto en el vehículo;5568
+2020;Goiás;Lesiones corporales seguidas de muerte;22
+2020;Goiás;Robo a entidad financiera;4
+2020;Goiás;Robo de mercancía;169
+2020;Goiás;Robo de vehiculo;2376
+2020;Goiás;Robo seguido de muerte;44
+2020;Goiás;Tentativa de homicidio;1588
+2020;Goiás;Violación;646
+2020;Maranhao;Homicidio doloso;1856
+2020;Maranhao;Hurto en el vehículo;1836
+2020;Maranhao;Lesiones corporales seguidas de muerte;13
+2020;Maranhao;Robo a entidad financiera;28
+2020;Maranhao;Robo de mercancía;28
+2020;Maranhao;Robo de vehiculo;2268
+2020;Maranhao;Robo seguido de muerte;75
+2020;Maranhao;Tentativa de homicidio;897
+2020;Maranhao;Violación;1355
+2020;Mato Grosso;Homicidio doloso;810
+2020;Mato Grosso;Hurto en el vehículo;1860
+2020;Mato Grosso;Lesiones corporales seguidas de muerte;25
+2020;Mato Grosso;Robo a entidad financiera;0
+2020;Mato Grosso;Robo de mercancía;89
+2020;Mato Grosso;Robo de vehiculo;1322
+2020;Mato Grosso;Robo seguido de muerte;27
+2020;Mato Grosso;Tentativa de homicidio;1060
+2020;Mato Grosso;Violación;1273
+2020;Mato Grosso do Sul;Homicidio doloso;430
+2020;Mato Grosso do Sul;Hurto en el vehículo;2901
+2020;Mato Grosso do Sul;Lesiones corporales seguidas de muerte;8
+2020;Mato Grosso do Sul;Robo a entidad financiera;1
+2020;Mato Grosso do Sul;Robo de mercancía;0
+2020;Mato Grosso do Sul;Robo de vehiculo;410
+2020;Mato Grosso do Sul;Robo seguido de muerte;17
+2020;Mato Grosso do Sul;Tentativa de homicidio;594
+2020;Mato Grosso do Sul;Violación;1576
+2020;Minas Gerais;Homicidio doloso;2470
+2020;Minas Gerais;Hurto en el vehículo;16145
+2020;Minas Gerais;Lesiones corporales seguidas de muerte;51
+2020;Minas Gerais;Robo a entidad financiera;24
+2020;Minas Gerais;Robo de mercancía;314
+2020;Minas Gerais;Robo de vehiculo;4478
+2020;Minas Gerais;Robo seguido de muerte;74
+2020;Minas Gerais;Tentativa de homicidio;2449
+2020;Minas Gerais;Violación;997
+2020;Pará;Homicidio doloso;2121
+2020;Pará;Hurto en el vehículo;2807
+2020;Pará;Lesiones corporales seguidas de muerte;43
+2020;Pará;Robo a entidad financiera;6
+2020;Pará;Robo de mercancía;136
+2020;Pará;Robo de vehiculo;2428
+2020;Pará;Robo seguido de muerte;97
+2020;Pará;Tentativa de homicidio;1192
+2020;Pará;Violación;2994
+2020;Paraíba;Homicidio doloso;1113
+2020;Paraíba;Hurto en el vehículo;773
+2020;Paraíba;Lesiones corporales seguidas de muerte;1
+2020;Paraíba;Robo a entidad financiera;18
+2020;Paraíba;Robo de mercancía;15
+2020;Paraíba;Robo de vehiculo;2319
+2020;Paraíba;Robo seguido de muerte;3
+2020;Paraíba;Tentativa de homicidio;366
+2020;Paraíba;Violación;214
+2020;Paraná;Homicidio doloso;1891
+2020;Paraná;Hurto en el vehículo;11959
+2020;Paraná;Lesiones corporales seguidas de muerte;61
+2020;Paraná;Robo a entidad financiera;9
+2020;Paraná;Robo de mercancía;456
+2020;Paraná;Robo de vehiculo;4453
+2020;Paraná;Robo seguido de muerte;57
+2020;Paraná;Tentativa de homicidio;855
+2020;Paraná;Violación;5131
+2020;Pernambuco;Homicidio doloso;3355
+2020;Pernambuco;Hurto en el vehículo;4811
+2020;Pernambuco;Lesiones corporales seguidas de muerte;28
+2020;Pernambuco;Robo a entidad financiera;4
+2020;Pernambuco;Robo de mercancía;528
+2020;Pernambuco;Robo de vehiculo;9554
+2020;Pernambuco;Robo seguido de muerte;101
+2020;Pernambuco;Tentativa de homicidio;3520
+2020;Pernambuco;Violación;1931
+2020;Piauí;Homicidio doloso;663
+2020;Piauí;Hurto en el vehículo;2189
+2020;Piauí;Lesiones corporales seguidas de muerte;8
+2020;Piauí;Robo a entidad financiera;5
+2020;Piauí;Robo de mercancía;12
+2020;Piauí;Robo de vehiculo;3896
+2020;Piauí;Robo seguido de muerte;37
+2020;Piauí;Tentativa de homicidio;504
+2020;Piauí;Violación;701
+2020;Rio de Janeiro;Homicidio doloso;3312
+2020;Rio de Janeiro;Hurto en el vehículo;12894
+2020;Rio de Janeiro;Lesiones corporales seguidas de muerte;31
+2020;Rio de Janeiro;Robo a entidad financiera;67
+2020;Rio de Janeiro;Robo de mercancía;4987
+2020;Rio de Janeiro;Robo de vehiculo;25432
+2020;Rio de Janeiro;Robo seguido de muerte;85
+2020;Rio de Janeiro;Tentativa de homicidio;2789
+2020;Rio de Janeiro;Violación;4284
+2020;Rio Grande do Norte;Homicidio doloso;1214
+2020;Rio Grande do Norte;Hurto en el vehículo;630
+2020;Rio Grande do Norte;Lesiones corporales seguidas de muerte;82
+2020;Rio Grande do Norte;Robo a entidad financiera;9
+2020;Rio Grande do Norte;Robo de mercancía;5
+2020;Rio Grande do Norte;Robo de vehiculo;5536
+2020;Rio Grande do Norte;Robo seguido de muerte;62
+2020;Rio Grande do Norte;Tentativa de homicidio;232
+2020;Rio Grande do Norte;Violación;466
+2020;Rio Grande do Sul;Homicidio doloso;1705
+2020;Rio Grande do Sul;Hurto en el vehículo;9415
+2020;Rio Grande do Sul;Lesiones corporales seguidas de muerte;27
+2020;Rio Grande do Sul;Robo a entidad financiera;14
+2020;Rio Grande do Sul;Robo de mercancía;199
+2020;Rio Grande do Sul;Robo de vehiculo;7884
+2020;Rio Grande do Sul;Robo seguido de muerte;69
+2020;Rio Grande do Sul;Tentativa de homicidio;2298
+2020;Rio Grande do Sul;Violación;4199
+2020;Rondonia;Homicidio doloso;381
+2020;Rondonia;Hurto en el vehículo;2063
+2020;Rondonia;Lesiones corporales seguidas de muerte;1
+2020;Rondonia;Robo a entidad financiera;44
+2020;Rondonia;Robo de mercancía;1
+2020;Rondonia;Robo de vehiculo;1599
+2020;Rondonia;Robo seguido de muerte;15
+2020;Rondonia;Tentativa de homicidio;666
+2020;Rondonia;Violación;479
+2020;Roraima;Homicidio doloso;169
+2020;Roraima;Hurto en el vehículo;701
+2020;Roraima;Lesiones corporales seguidas de muerte;5
+2020;Roraima;Robo a entidad financiera;2
+2020;Roraima;Robo de mercancía;0
+2020;Roraima;Robo de vehiculo;487
+2020;Roraima;Robo seguido de muerte;17
+2020;Roraima;Tentativa de homicidio;106
+2020;Roraima;Violación;341
+2020;San Pablo;Homicidio doloso;2893
+2020;San Pablo;Hurto en el vehículo;65724
+2020;San Pablo;Lesiones corporales seguidas de muerte;122
+2020;San Pablo;Robo a entidad financiera;29
+2020;San Pablo;Robo de mercancía;5918
+2020;San Pablo;Robo de vehiculo;31893
+2020;San Pablo;Robo seguido de muerte;179
+2020;San Pablo;Tentativa de homicidio;3200
+2020;San Pablo;Violación;11023
+2020;Santa Catarina;Homicidio doloso;668
+2020;Santa Catarina;Hurto en el vehículo;7544
+2020;Santa Catarina;Lesiones corporales seguidas de muerte;14
+2020;Santa Catarina;Robo a entidad financiera;8
+2020;Santa Catarina;Robo de mercancía;13
+2020;Santa Catarina;Robo de vehiculo;1384
+2020;Santa Catarina;Robo seguido de muerte;17
+2020;Santa Catarina;Tentativa de homicidio;1548
+2020;Santa Catarina;Violación;1155
+2020;Sergipe;Homicidio doloso;761
+2020;Sergipe;Hurto en el vehículo;788
+2020;Sergipe;Lesiones corporales seguidas de muerte;2
+2020;Sergipe;Robo a entidad financiera;2
+2020;Sergipe;Robo de mercancía;0
+2020;Sergipe;Robo de vehiculo;2524
+2020;Sergipe;Robo seguido de muerte;28
+2020;Sergipe;Tentativa de homicidio;554
+2020;Sergipe;Violación;527
+2020;Tocantins;Homicidio doloso;381
+2020;Tocantins;Hurto en el vehículo;1487
+2020;Tocantins;Lesiones corporales seguidas de muerte;9
+2020;Tocantins;Robo a entidad financiera;4
+2020;Tocantins;Robo de mercancía;2
+2020;Tocantins;Robo de vehiculo;573
+2020;Tocantins;Robo seguido de muerte;17
+2020;Tocantins;Tentativa de homicidio;442
+2020;Tocantins;Violación;731
+2021;Acre;Homicidio doloso;168
+2021;Acre;Hurto en el vehículo;615
+2021;Acre;Lesiones corporales seguidas de muerte;1
+2021;Acre;Robo a entidad financiera;1
+2021;Acre;Robo de mercancía;0
+2021;Acre;Robo de vehiculo;1035
+2021;Acre;Robo seguido de muerte;8
+2021;Acre;Tentativa de homicidio;235
+2021;Acre;Violación;438
+2021;Alagoas;Homicidio doloso;1027
+2021;Alagoas;Hurto en el vehículo;1459
+2021;Alagoas;Lesiones corporales seguidas de muerte;4
+2021;Alagoas;Robo a entidad financiera;1
+2021;Alagoas;Robo de mercancía;13
+2021;Alagoas;Robo de vehiculo;1583
+2021;Alagoas;Robo seguido de muerte;25
+2021;Alagoas;Tentativa de homicidio;359
+2021;Alagoas;Violación;568
+2021;Amapá;Homicidio doloso;277
+2021;Amapá;Hurto en el vehículo;391
+2021;Amapá;Lesiones corporales seguidas de muerte;18
+2021;Amapá;Robo a entidad financiera;19
+2021;Amapá;Robo de mercancía;15
+2021;Amapá;Robo de vehiculo;396
+2021;Amapá;Robo seguido de muerte;19
+2021;Amapá;Tentativa de homicidio;189
+2021;Amapá;Violación;237
+2021;Amazonas;Homicidio doloso;1381
+2021;Amazonas;Hurto en el vehículo;1834
+2021;Amazonas;Lesiones corporales seguidas de muerte;16
+2021;Amazonas;Robo a entidad financiera;2
+2021;Amazonas;Robo de mercancía;24
+2021;Amazonas;Robo de vehiculo;2311
+2021;Amazonas;Robo seguido de muerte;69
+2021;Amazonas;Tentativa de homicidio;247
+2021;Amazonas;Violación;749
+2021;Bahia;Homicidio doloso;5213
+2021;Bahia;Hurto en el vehículo;4485
+2021;Bahia;Lesiones corporales seguidas de muerte;55
+2021;Bahia;Robo a entidad financiera;17
+2021;Bahia;Robo de mercancía;182
+2021;Bahia;Robo de vehiculo;11103
+2021;Bahia;Robo seguido de muerte;134
+2021;Bahia;Tentativa de homicidio;2103
+2021;Bahia;Violación;3254
+2021;Ceará;Homicidio doloso;3026
+2021;Ceará;Hurto en el vehículo;4052
+2021;Ceará;Lesiones corporales seguidas de muerte;23
+2021;Ceará;Robo a entidad financiera;7
+2021;Ceará;Robo de mercancía;45
+2021;Ceará;Robo de vehiculo;7805
+2021;Ceará;Robo seguido de muerte;42
+2021;Ceará;Tentativa de homicidio;1015
+2021;Ceará;Violación;1783
+2021;Distrito Federal Brasilia;Homicidio doloso;283
+2021;Distrito Federal Brasilia;Hurto en el vehículo;3717
+2021;Distrito Federal Brasilia;Lesiones corporales seguidas de muerte;6
+2021;Distrito Federal Brasilia;Robo a entidad financiera;0
+2021;Distrito Federal Brasilia;Robo de mercancía;22
+2021;Distrito Federal Brasilia;Robo de vehiculo;2032
+2021;Distrito Federal Brasilia;Robo seguido de muerte;21
+2021;Distrito Federal Brasilia;Tentativa de homicidio;614
+2021;Distrito Federal Brasilia;Violación;575
+2021;Espírito Santo;Homicidio doloso;1060
+2021;Espírito Santo;Hurto en el vehículo;4654
+2021;Espírito Santo;Lesiones corporales seguidas de muerte;16
+2021;Espírito Santo;Robo a entidad financiera;35
+2021;Espírito Santo;Robo de mercancía;30
+2021;Espírito Santo;Robo de vehiculo;3669
+2021;Espírito Santo;Robo seguido de muerte;41
+2021;Espírito Santo;Tentativa de homicidio;2392
+2021;Espírito Santo;Violación;1474
+2021;Goiás;Homicidio doloso;1190
+2021;Goiás;Hurto en el vehículo;5106
+2021;Goiás;Lesiones corporales seguidas de muerte;24
+2021;Goiás;Robo a entidad financiera;5
+2021;Goiás;Robo de mercancía;280
+2021;Goiás;Robo de vehiculo;1739
+2021;Goiás;Robo seguido de muerte;34
+2021;Goiás;Tentativa de homicidio;1531
+2021;Goiás;Violación;654
+2021;Maranhao;Homicidio doloso;1825
+2021;Maranhao;Hurto en el vehículo;2154
+2021;Maranhao;Lesiones corporales seguidas de muerte;10
+2021;Maranhao;Robo a entidad financiera;12
+2021;Maranhao;Robo de mercancía;33
+2021;Maranhao;Robo de vehiculo;4200
+2021;Maranhao;Robo seguido de muerte;96
+2021;Maranhao;Tentativa de homicidio;880
+2021;Maranhao;Violación;1473
+2021;Mato Grosso;Homicidio doloso;744
+2021;Mato Grosso;Hurto en el vehículo;1850
+2021;Mato Grosso;Lesiones corporales seguidas de muerte;11
+2021;Mato Grosso;Robo a entidad financiera;5
+2021;Mato Grosso;Robo de mercancía;230
+2021;Mato Grosso;Robo de vehiculo;1110
+2021;Mato Grosso;Robo seguido de muerte;30
+2021;Mato Grosso;Tentativa de homicidio;971
+2021;Mato Grosso;Violación;1640
+2021;Mato Grosso do Sul;Homicidio doloso;438
+2021;Mato Grosso do Sul;Hurto en el vehículo;2901
+2021;Mato Grosso do Sul;Lesiones corporales seguidas de muerte;12
+2021;Mato Grosso do Sul;Robo a entidad financiera;2
+2021;Mato Grosso do Sul;Robo de mercancía;1
+2021;Mato Grosso do Sul;Robo de vehiculo;504
+2021;Mato Grosso do Sul;Robo seguido de muerte;12
+2021;Mato Grosso do Sul;Tentativa de homicidio;606
+2021;Mato Grosso do Sul;Violación;1793
+2021;Minas Gerais;Homicidio doloso;2262
+2021;Minas Gerais;Hurto en el vehículo;14676
+2021;Minas Gerais;Lesiones corporales seguidas de muerte;23
+2021;Minas Gerais;Robo a entidad financiera;11
+2021;Minas Gerais;Robo de mercancía;296
+2021;Minas Gerais;Robo de vehiculo;2945
+2021;Minas Gerais;Robo seguido de muerte;80
+2021;Minas Gerais;Tentativa de homicidio;2297
+2021;Minas Gerais;Violación;1007
+2021;Pará;Homicidio doloso;2103
+2021;Pará;Hurto en el vehículo;3018
+2021;Pará;Lesiones corporales seguidas de muerte;30
+2021;Pará;Robo a entidad financiera;3
+2021;Pará;Robo de mercancía;144
+2021;Pará;Robo de vehiculo;2508
+2021;Pará;Robo seguido de muerte;102
+2021;Pará;Tentativa de homicidio;1037
+2021;Pará;Violación;3685
+2021;Paraíba;Homicidio doloso;1106
+2021;Paraíba;Hurto en el vehículo;708
+2021;Paraíba;Lesiones corporales seguidas de muerte;3
+2021;Paraíba;Robo a entidad financiera;14
+2021;Paraíba;Robo de mercancía;24
+2021;Paraíba;Robo de vehiculo;2148
+2021;Paraíba;Robo seguido de muerte;17
+2021;Paraíba;Tentativa de homicidio;371
+2021;Paraíba;Violación;299
+2021;Paraná;Homicidio doloso;1797
+2021;Paraná;Hurto en el vehículo;11548
+2021;Paraná;Lesiones corporales seguidas de muerte;40
+2021;Paraná;Robo a entidad financiera;12
+2021;Paraná;Robo de mercancía;547
+2021;Paraná;Robo de vehiculo;4030
+2021;Paraná;Robo seguido de muerte;40
+2021;Paraná;Tentativa de homicidio;1074
+2021;Paraná;Violación;4887
+2021;Pernambuco;Homicidio doloso;3040
+2021;Pernambuco;Hurto en el vehículo;4911
+2021;Pernambuco;Lesiones corporales seguidas de muerte;16
+2021;Pernambuco;Robo a entidad financiera;5
+2021;Pernambuco;Robo de mercancía;365
+2021;Pernambuco;Robo de vehiculo;9573
+2021;Pernambuco;Robo seguido de muerte;119
+2021;Pernambuco;Tentativa de homicidio;2833
+2021;Pernambuco;Violación;2133
+2021;Piauí;Homicidio doloso;738
+2021;Piauí;Hurto en el vehículo;2045
+2021;Piauí;Lesiones corporales seguidas de muerte;3
+2021;Piauí;Robo a entidad financiera;5
+2021;Piauí;Robo de mercancía;12
+2021;Piauí;Robo de vehiculo;4478
+2021;Piauí;Robo seguido de muerte;38
+2021;Piauí;Tentativa de homicidio;534
+2021;Piauí;Violación;900
+2021;Rio de Janeiro;Homicidio doloso;3058
+2021;Rio de Janeiro;Hurto en el vehículo;14416
+2021;Rio de Janeiro;Lesiones corporales seguidas de muerte;39
+2021;Rio de Janeiro;Robo a entidad financiera;105
+2021;Rio de Janeiro;Robo de mercancía;4445
+2021;Rio de Janeiro;Robo de vehiculo;24329
+2021;Rio de Janeiro;Robo seguido de muerte;104
+2021;Rio de Janeiro;Tentativa de homicidio;2620
+2021;Rio de Janeiro;Violación;4593
+2021;Rio Grande do Norte;Homicidio doloso;1064
+2021;Rio Grande do Norte;Hurto en el vehículo;821
+2021;Rio Grande do Norte;Lesiones corporales seguidas de muerte;19
+2021;Rio Grande do Norte;Robo a entidad financiera;17
+2021;Rio Grande do Norte;Robo de mercancía;16
+2021;Rio Grande do Norte;Robo de vehiculo;4188
+2021;Rio Grande do Norte;Robo seguido de muerte;54
+2021;Rio Grande do Norte;Tentativa de homicidio;338
+2021;Rio Grande do Norte;Violación;551
+2021;Rio Grande do Sul;Homicidio doloso;1520
+2021;Rio Grande do Sul;Hurto en el vehículo;8914
+2021;Rio Grande do Sul;Lesiones corporales seguidas de muerte;34
+2021;Rio Grande do Sul;Robo a entidad financiera;13
+2021;Rio Grande do Sul;Robo de mercancía;173
+2021;Rio Grande do Sul;Robo de vehiculo;4941
+2021;Rio Grande do Sul;Robo seguido de muerte;64
+2021;Rio Grande do Sul;Tentativa de homicidio;2011
+2021;Rio Grande do Sul;Violación;4636
+2021;Rondonia;Homicidio doloso;426
+2021;Rondonia;Hurto en el vehículo;2258
+2021;Rondonia;Lesiones corporales seguidas de muerte;3
+2021;Rondonia;Robo a entidad financiera;62
+2021;Rondonia;Robo de mercancía;5
+2021;Rondonia;Robo de vehiculo;1838
+2021;Rondonia;Robo seguido de muerte;20
+2021;Rondonia;Tentativa de homicidio;663
+2021;Rondonia;Violación;318
+2021;Roraima;Homicidio doloso;197
+2021;Roraima;Hurto en el vehículo;649
+2021;Roraima;Lesiones corporales seguidas de muerte;8
+2021;Roraima;Robo a entidad financiera;2
+2021;Roraima;Robo de mercancía;1
+2021;Roraima;Robo de vehiculo;680
+2021;Roraima;Robo seguido de muerte;13
+2021;Roraima;Tentativa de homicidio;172
+2021;Roraima;Violación;460
+2021;San Pablo;Homicidio doloso;2711
+2021;San Pablo;Hurto en el vehículo;79670
+2021;San Pablo;Lesiones corporales seguidas de muerte;76
+2021;San Pablo;Robo a entidad financiera;18
+2021;San Pablo;Robo de mercancía;6529
+2021;San Pablo;Robo de vehiculo;33041
+2021;San Pablo;Robo seguido de muerte;166
+2021;San Pablo;Tentativa de homicidio;3312
+2021;San Pablo;Violación;11762
+2021;Santa Catarina;Homicidio doloso;612
+2021;Santa Catarina;Hurto en el vehículo;7455
+2021;Santa Catarina;Lesiones corporales seguidas de muerte;15
+2021;Santa Catarina;Robo a entidad financiera;13
+2021;Santa Catarina;Robo de mercancía;21
+2021;Santa Catarina;Robo de vehiculo;1412
+2021;Santa Catarina;Robo seguido de muerte;16
+2021;Santa Catarina;Tentativa de homicidio;1442
+2021;Santa Catarina;Violación;1170
+2021;Sergipe;Homicidio doloso;558
+2021;Sergipe;Hurto en el vehículo;606
+2021;Sergipe;Lesiones corporales seguidas de muerte;6
+2021;Sergipe;Robo a entidad financiera;0
+2021;Sergipe;Robo de mercancía;0
+2021;Sergipe;Robo de vehiculo;2412
+2021;Sergipe;Robo seguido de muerte;16
+2021;Sergipe;Tentativa de homicidio;594
+2021;Sergipe;Violación;391
+2021;Tocantins;Homicidio doloso;313
+2021;Tocantins;Hurto en el vehículo;1242
+2021;Tocantins;Lesiones corporales seguidas de muerte;1
+2021;Tocantins;Robo a entidad financiera;2
+2021;Tocantins;Robo de mercancía;0
+2021;Tocantins;Robo de vehiculo;451
+2021;Tocantins;Robo seguido de muerte;9
+2021;Tocantins;Tentativa de homicidio;359
+2021;Tocantins;Violación;760
+2022;Acre;Homicidio doloso;142
+2022;Acre;Hurto en el vehículo;379
+2022;Acre;Lesiones corporales seguidas de muerte;1
+2022;Acre;Robo a entidad financiera;0
+2022;Acre;Robo de mercancía;0
+2022;Acre;Robo de vehiculo;504
+2022;Acre;Robo seguido de muerte;5
+2022;Acre;Tentativa de homicidio;254
+2022;Acre;Violación;408
+2022;Alagoas;Homicidio doloso;797
+2022;Alagoas;Hurto en el vehículo;1444
+2022;Alagoas;Lesiones corporales seguidas de muerte;4
+2022;Alagoas;Robo a entidad financiera;0
+2022;Alagoas;Robo de mercancía;12
+2022;Alagoas;Robo de vehiculo;1210
+2022;Alagoas;Robo seguido de muerte;18
+2022;Alagoas;Tentativa de homicidio;463
+2022;Alagoas;Violación;553
+2022;Amapá;Homicidio doloso;135
+2022;Amapá;Hurto en el vehículo;330
+2022;Amapá;Lesiones corporales seguidas de muerte;12
+2022;Amapá;Robo a entidad financiera;4
+2022;Amapá;Robo de mercancía;17
+2022;Amapá;Robo de vehiculo;285
+2022;Amapá;Robo seguido de muerte;20
+2022;Amapá;Tentativa de homicidio;138
+2022;Amapá;Violación;90
+2022;Amazonas;Homicidio doloso;948
+2022;Amazonas;Hurto en el vehículo;1780
+2022;Amazonas;Lesiones corporales seguidas de muerte;22
+2022;Amazonas;Robo a entidad financiera;1
+2022;Amazonas;Robo de mercancía;13
+2022;Amazonas;Robo de vehiculo;1158
+2022;Amazonas;Robo seguido de muerte;41
+2022;Amazonas;Tentativa de homicidio;191
+2022;Amazonas;Violación;704
+2022;Bahia;Homicidio doloso;3472
+2022;Bahia;Hurto en el vehículo;4919
+2022;Bahia;Lesiones corporales seguidas de muerte;43
+2022;Bahia;Robo a entidad financiera;3
+2022;Bahia;Robo de mercancía;238
+2022;Bahia;Robo de vehiculo;9053
+2022;Bahia;Robo seguido de muerte;60
+2022;Bahia;Tentativa de homicidio;1528
+2022;Bahia;Violación;2750
+2022;Ceará;Homicidio doloso;2059
+2022;Ceará;Hurto en el vehículo;4057
+2022;Ceará;Lesiones corporales seguidas de muerte;14
+2022;Ceará;Robo a entidad financiera;4
+2022;Ceará;Robo de mercancía;51
+2022;Ceará;Robo de vehiculo;5653
+2022;Ceará;Robo seguido de muerte;31
+2022;Ceará;Tentativa de homicidio;719
+2022;Ceará;Violación;1342
+2022;Distrito Federal Brasilia;Homicidio doloso;180
+2022;Distrito Federal Brasilia;Hurto en el vehículo;2524
+2022;Distrito Federal Brasilia;Lesiones corporales seguidas de muerte;3
+2022;Distrito Federal Brasilia;Robo a entidad financiera;1
+2022;Distrito Federal Brasilia;Robo de mercancía;12
+2022;Distrito Federal Brasilia;Robo de vehiculo;1143
+2022;Distrito Federal Brasilia;Robo seguido de muerte;12
+2022;Distrito Federal Brasilia;Tentativa de homicidio;369
+2022;Distrito Federal Brasilia;Violación;539
+2022;Espírito Santo;Homicidio doloso;707
+2022;Espírito Santo;Hurto en el vehículo;3474
+2022;Espírito Santo;Lesiones corporales seguidas de muerte;16
+2022;Espírito Santo;Robo a entidad financiera;20
+2022;Espírito Santo;Robo de mercancía;32
+2022;Espírito Santo;Robo de vehiculo;2490
+2022;Espírito Santo;Robo seguido de muerte;21
+2022;Espírito Santo;Tentativa de homicidio;1816
+2022;Espírito Santo;Violación;1286
+2022;Goiás;Homicidio doloso;824
+2022;Goiás;Hurto en el vehículo;3958
+2022;Goiás;Lesiones corporales seguidas de muerte;19
+2022;Goiás;Robo a entidad financiera;0
+2022;Goiás;Robo de mercancía;69
+2022;Goiás;Robo de vehiculo;1011
+2022;Goiás;Robo seguido de muerte;25
+2022;Goiás;Tentativa de homicidio;1063
+2022;Goiás;Violación;489
+2022;Maranhao;Homicidio doloso;1282
+2022;Maranhao;Hurto en el vehículo;1683
+2022;Maranhao;Lesiones corporales seguidas de muerte;5
+2022;Maranhao;Robo a entidad financiera;10
+2022;Maranhao;Robo de mercancía;24
+2022;Maranhao;Robo de vehiculo;2549
+2022;Maranhao;Robo seguido de muerte;75
+2022;Maranhao;Tentativa de homicidio;682
+2022;Maranhao;Violación;1348
+2022;Mato Grosso;Homicidio doloso;676
+2022;Mato Grosso;Hurto en el vehículo;1591
+2022;Mato Grosso;Lesiones corporales seguidas de muerte;4
+2022;Mato Grosso;Robo a entidad financiera;1
+2022;Mato Grosso;Robo de mercancía;235
+2022;Mato Grosso;Robo de vehiculo;763
+2022;Mato Grosso;Robo seguido de muerte;18
+2022;Mato Grosso;Tentativa de homicidio;723
+2022;Mato Grosso;Violación;1505
+2022;Mato Grosso do Sul;Homicidio doloso;326
+2022;Mato Grosso do Sul;Hurto en el vehículo;2627
+2022;Mato Grosso do Sul;Lesiones corporales seguidas de muerte;3
+2022;Mato Grosso do Sul;Robo a entidad financiera;0
+2022;Mato Grosso do Sul;Robo de mercancía;0
+2022;Mato Grosso do Sul;Robo de vehiculo;364
+2022;Mato Grosso do Sul;Robo seguido de muerte;9
+2022;Mato Grosso do Sul;Tentativa de homicidio;502
+2022;Mato Grosso do Sul;Violación;1409
+2022;Minas Gerais;Homicidio doloso;1769
+2022;Minas Gerais;Hurto en el vehículo;13927
+2022;Minas Gerais;Lesiones corporales seguidas de muerte;9
+2022;Minas Gerais;Robo a entidad financiera;18
+2022;Minas Gerais;Robo de mercancía;247
+2022;Minas Gerais;Robo de vehiculo;2449
+2022;Minas Gerais;Robo seguido de muerte;60
+2022;Minas Gerais;Tentativa de homicidio;1779
+2022;Minas Gerais;Violación;702
+2022;Pará;Homicidio doloso;1564
+2022;Pará;Hurto en el vehículo;2567
+2022;Pará;Lesiones corporales seguidas de muerte;23
+2022;Pará;Robo a entidad financiera;3
+2022;Pará;Robo de mercancía;95
+2022;Pará;Robo de vehiculo;1501
+2022;Pará;Robo seguido de muerte;60
+2022;Pará;Tentativa de homicidio;966
+2022;Pará;Violación;3104
+2022;Paraíba;Homicidio doloso;791
+2022;Paraíba;Hurto en el vehículo;768
+2022;Paraíba;Lesiones corporales seguidas de muerte;4
+2022;Paraíba;Robo a entidad financiera;17
+2022;Paraíba;Robo de mercancía;11
+2022;Paraíba;Robo de vehiculo;1907
+2022;Paraíba;Robo seguido de muerte;21
+2022;Paraíba;Tentativa de homicidio;314
+2022;Paraíba;Violación;434
+2022;Paraná;Homicidio doloso;1375
+2022;Paraná;Hurto en el vehículo;10090
+2022;Paraná;Lesiones corporales seguidas de muerte;27
+2022;Paraná;Robo a entidad financiera;10
+2022;Paraná;Robo de mercancía;349
+2022;Paraná;Robo de vehiculo;2559
+2022;Paraná;Robo seguido de muerte;44
+2022;Paraná;Tentativa de homicidio;644
+2022;Paraná;Violación;4377
+2022;Pernambuco;Homicidio doloso;2316
+2022;Pernambuco;Hurto en el vehículo;5017
+2022;Pernambuco;Lesiones corporales seguidas de muerte;11
+2022;Pernambuco;Robo a entidad financiera;3
+2022;Pernambuco;Robo de mercancía;251
+2022;Pernambuco;Robo de vehiculo;8217
+2022;Pernambuco;Robo seguido de muerte;84
+2022;Pernambuco;Tentativa de homicidio;1811
+2022;Pernambuco;Violación;1607
+2022;Piauí;Homicidio doloso;569
+2022;Piauí;Hurto en el vehículo;1748
+2022;Piauí;Lesiones corporales seguidas de muerte;6
+2022;Piauí;Robo a entidad financiera;0
+2022;Piauí;Robo de mercancía;10
+2022;Piauí;Robo de vehiculo;3437
+2022;Piauí;Robo seguido de muerte;18
+2022;Piauí;Tentativa de homicidio;400
+2022;Piauí;Violación;782
+2022;Rio de Janeiro;Homicidio doloso;2098
+2022;Rio de Janeiro;Hurto en el vehículo;12564
+2022;Rio de Janeiro;Lesiones corporales seguidas de muerte;24
+2022;Rio de Janeiro;Robo a entidad financiera;59
+2022;Rio de Janeiro;Robo de mercancía;2967
+2022;Rio de Janeiro;Robo de vehiculo;17965
+2022;Rio de Janeiro;Robo seguido de muerte;39
+2022;Rio de Janeiro;Tentativa de homicidio;1770
+2022;Rio de Janeiro;Violación;3819
+2022;Rio Grande do Norte;Homicidio doloso;738
+2022;Rio Grande do Norte;Hurto en el vehículo;851
+2022;Rio Grande do Norte;Lesiones corporales seguidas de muerte;43
+2022;Rio Grande do Norte;Robo a entidad financiera;5
+2022;Rio Grande do Norte;Robo de mercancía;7
+2022;Rio Grande do Norte;Robo de vehiculo;2347
+2022;Rio Grande do Norte;Robo seguido de muerte;20
+2022;Rio Grande do Norte;Tentativa de homicidio;248
+2022;Rio Grande do Norte;Violación;539
+2022;Rio Grande do Sul;Homicidio doloso;1153
+2022;Rio Grande do Sul;Hurto en el vehículo;6705
+2022;Rio Grande do Sul;Lesiones corporales seguidas de muerte;24
+2022;Rio Grande do Sul;Robo a entidad financiera;4
+2022;Rio Grande do Sul;Robo de mercancía;97
+2022;Rio Grande do Sul;Robo de vehiculo;3353
+2022;Rio Grande do Sul;Robo seguido de muerte;40
+2022;Rio Grande do Sul;Tentativa de homicidio;1569
+2022;Rio Grande do Sul;Violación;3545
+2022;Rondonia;Homicidio doloso;372
+2022;Rondonia;Hurto en el vehículo;2039
+2022;Rondonia;Lesiones corporales seguidas de muerte;3
+2022;Rondonia;Robo a entidad financiera;1
+2022;Rondonia;Robo de mercancía;0
+2022;Rondonia;Robo de vehiculo;1352
+2022;Rondonia;Robo seguido de muerte;8
+2022;Rondonia;Tentativa de homicidio;488
+2022;Rondonia;Violación;249
+2022;Roraima;Homicidio doloso;115
+2022;Roraima;Hurto en el vehículo;513
+2022;Roraima;Lesiones corporales seguidas de muerte;5
+2022;Roraima;Robo a entidad financiera;0
+2022;Roraima;Robo de mercancía;0
+2022;Roraima;Robo de vehiculo;260
+2022;Roraima;Robo seguido de muerte;6
+2022;Roraima;Tentativa de homicidio;117
+2022;Roraima;Violación;434
+2022;San Pablo;Homicidio doloso;2135
+2022;San Pablo;Hurto en el vehículo;67562
+2022;San Pablo;Lesiones corporales seguidas de muerte;74
+2022;San Pablo;Robo a entidad financiera;13
+2022;San Pablo;Robo de mercancía;4725
+2022;San Pablo;Robo de vehiculo;28252
+2022;San Pablo;Robo seguido de muerte;124
+2022;San Pablo;Tentativa de homicidio;2340
+2022;San Pablo;Violación;9484
+2022;Santa Catarina;Homicidio doloso;440
+2022;Santa Catarina;Hurto en el vehículo;6118
+2022;Santa Catarina;Lesiones corporales seguidas de muerte;14
+2022;Santa Catarina;Robo a entidad financiera;3
+2022;Santa Catarina;Robo de mercancía;28
+2022;Santa Catarina;Robo de vehiculo;964
+2022;Santa Catarina;Robo seguido de muerte;14
+2022;Santa Catarina;Tentativa de homicidio;1011
+2022;Santa Catarina;Violación;954
+2022;Sergipe;Homicidio doloso;419
+2022;Sergipe;Hurto en el vehículo;587
+2022;Sergipe;Lesiones corporales seguidas de muerte;1
+2022;Sergipe;Robo a entidad financiera;0
+2022;Sergipe;Robo de mercancía;0
+2022;Sergipe;Robo de vehiculo;1343
+2022;Sergipe;Robo seguido de muerte;9
+2022;Sergipe;Tentativa de homicidio;412
+2022;Sergipe;Violación;127
+2022;Tocantins;Homicidio doloso;271
+2022;Tocantins;Hurto en el vehículo;1028
+2022;Tocantins;Lesiones corporales seguidas de muerte;1
+2022;Tocantins;Robo a entidad financiera;10
+2022;Tocantins;Robo de mercancía;0
+2022;Tocantins;Robo de vehiculo;325
+2022;Tocantins;Robo seguido de muerte;14
+2022;Tocantins;Tentativa de homicidio;293
+2022;Tocantins;Violación;213
